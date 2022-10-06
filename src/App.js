@@ -6,8 +6,6 @@ import { Routes, Route, useParams } from "react-router-dom";
 function MarkdownContainer() {
   let { file } = useParams()
 
-  console.log(file) 
-
   const file_name = `${file}.md`;
   const [post, setPost] = useState('');
 
