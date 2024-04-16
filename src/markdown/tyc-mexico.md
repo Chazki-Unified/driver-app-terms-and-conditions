@@ -1,6 +1,6 @@
 ## TÉRMINOS Y CONDICIONES
 
-Se adjunta documento de términos y condiciones generales, que integran la presente Oferta, donde se describen los Servicios que serán brindados por QUIPU DIGITAL S.R.L. a través de la Aplicación o plataforma digital provista y administrada, por la misma, a fin de conectar usuarios de dicha plataforma, es decir usuarios que requieran los servicios de transporte de mercaderías (Los “Usuarios Cargadores”), con usuarios interesados en prestar el servicio de transporte de mercadería (Los “Usuarios Transportistas”) y los servicios prestados (Los “Transportes” o El “Transporte”), asignando servicios de publicación de solicitudes de oferta, solicitud de ofertas, gestión de solicitudes, ofertas y aceptaciones, y acercamiento de partes, (en adelante, La “Oferta”).
+Se adjunta documento de términos y condiciones generales, que integran la presente Oferta, donde se describen los Servicios que serán brindados por __Entrega Inovadora SAPI de CV__. a través de la Aplicación o plataforma digital provista y administrada, por la misma, a fin de conectar usuarios de dicha plataforma, es decir usuarios que requieran los servicios de transporte de mercaderías (Los “Usuarios Cargadores”), con usuarios interesados en prestar el servicio de transporte de mercadería (Los “Usuarios Transportistas”) y los servicios prestados (Los “Transportes” o El “Transporte”), asignando servicios de publicación de solicitudes de oferta, solicitud de ofertas, gestión de solicitudes, ofertas y aceptaciones, y acercamiento de partes, (en adelante, La “Oferta”).
 
 ## PROPUESTA
 
@@ -10,18 +10,17 @@ En caso de que la presente Oferta resulte aceptada por Ustedes, la relación com
 
 ## PRIMERA:
 
-1.1. Objeto. Servicios a cargo de La Aplicación. Sujeto a los términos y condiciones de la presente Oferta, QUIPU DIGITAL S.R.L. ofrece a usted realizar el servicio de provisión y administración de una plataforma digital, KIPU, (en adelante “la Aplicación”, respectivamente) a fin de conectar usuarios de dicha plataforma, es decir Usuarios Cargadores, con Usuarios Transportistas, asignando servicios de publicación de solicitudes de oferta, solicitud de ofertas, gestión de solicitudes, ofertas y aceptaciones, y acercamiento de partes y gestión de pagos, (en adelante, los “Servicios”).
+1.1. Objeto. Servicios a cargo de La Aplicación. Sujeto a los términos y condiciones de la presente Oferta, __Entrega Inovadora SAPI de CV__ ofrece a usted realizar el servicio de provisión y administración de una plataforma digital (en adelante “la Aplicación”, respectivamente) a fin de conectar usuarios de dicha plataforma, es decir Usuarios Cargadores, con Usuarios Transportistas, asignando servicios de publicación de solicitudes de oferta, solicitud de ofertas, gestión de solicitudes, ofertas y aceptaciones, y acercamiento de partes y gestión de pagos, (en adelante, los “Servicios”).
 
-1.2. QUIPU DIGITAL S.R.L., además, a través de “la Aplicación”, administrará el cobro a los Usuarios Cargadores de los Transportes de mercaderías. Comprometiéndose luego a distribuir las sumas facturadas a los Usuarios Transportistas, en la forma establecida en la presente Oferta. A tal efecto, Kipu preparará y remitirá al Usuario Cargador una factura por el precio total del Transporte según lo acordado entre el Usuario Cargador y el Usuario Transportista, y pondrá a disposición de los Usuarios Cargadores distintos medios digitales de pago. Una vez recibido el pago por parte del Usuario Cargador, y contra la presentación de la correspondiente factura por parte del Usuario Transportista, la Aplicación abonará la suma que corresponda, deduciendo previamente la Comisión, según lo previsto en la Cláusula Cuarta.
+1.2. __Entrega Inovadora SAPI de CV__ además, a través de “la Aplicación”, administrará el cobro a los Usuarios Cargadores de los Transportes de mercaderías. Comprometiéndose luego a distribuir las sumas facturadas a los Usuarios Transportistas, en la forma establecida en la presente Oferta. A tal efecto, __Entrega Inovadora SAPI de CV__ preparará y remitirá al Usuario Cargador una factura por el precio total del Transporte según lo acordado entre el Usuario Cargador y el Usuario Transportista, y pondrá a disposición de los Usuarios Cargadores distintos medios digitales de pago. Una vez recibido el pago por parte del Usuario Cargador, y contra la presentación de la correspondiente factura por parte del Usuario Transportista, la Aplicación abonará la suma que corresponda, deduciendo previamente la Comisión, según lo previsto en la Cláusula Cuarta.
 
-1.3. QUIPU DIGITAL S.R.L. declara y garantiza que cuenta con el personal, conocimientos, infraestructura y experiencia necesarios para proporcionar los Servicios. La Aplicación reconoce expresamente que corren por su exclusiva cuenta los gastos referidos a los Servicios que
-ofrece.
+1.3. __Entrega Inovadora SAPI de CV__ declara y garantiza que cuenta con el personal, conocimientos, infraestructura y experiencia necesarios para proporcionar los Servicios. La Aplicación reconoce expresamente que corren por su exclusiva cuenta los gastos referidos a los Servicios que ofrece.
 
 ## SEGUNDA:
 
 2.1. Uso de la Aplicación por el Usuario Transportista.
 
-Por su parte, el Usuario Transportista podrá, a través de la Aplicación, aceptar o rechazar las solicitudes de oferta realizadas por los Usuarios Cargadores, y realizar el Transporte de mercaderías. El Usuario Transportista desde ya declara que el Transporte será realizado por él, como conductor a título personal, y no a través de conductores contratados como personal a su cargo. El Transporte, una vez aceptado, abarca las tareas de recoger la mercadería, trasladarla y descargarla de acuerdo a las solicitudes que realicen los Usuarios Cargadores. El Usuario Transportista se compromete además a dar cumplimiento con el debido uso de la Aplicación, y a cumplir con las normas tecnológicas que impone el mismo, colaborando a la captación de un mayor número de Usuarios Cargadores, a fin de colaborar con la continuidad de funcionamiento de la Aplicación.
+Por su parte, el Usuario Transportista podrá, a través de la Aplicación, aceptar o rechazar las solicitudes de oferta realizadas por los Usuarios Cargadores, y realizar el Transporte de mercaderías. El Usuario Transportista desde ya declara que el Transporte será coordinado y gestionado directamente por él, sin involucrar personal contratado a su cargo. El Transporte, una vez aceptado, abarca las tareas de recoger la mercadería, trasladarla y descargarla de acuerdo a las solicitudes que realicen los Usuarios Cargadores. El Usuario Transportista se compromete además a dar cumplimiento con el debido uso de la Aplicación, y a cumplir con las normas tecnológicas que impone el mismo, colaborando a la captación de un mayor número de Usuarios Cargadores, a fin de colaborar con la continuidad de funcionamiento de la Aplicación.
 
 El uso de la Aplicación y los Servicios brindados por la Aplicación no tienen un tiempo de duración estipulado. El Usuario Transportista podrá conectarse o desconectarse de la Aplicación en los horarios que lo desee, y siempre que se respeten las normas de buen uso de la Aplicación.
 
@@ -85,9 +84,7 @@ Rescisión Anticipada sin Causa. Cada una de las Partes podrá dar por terminada
 
 ## SÉPTIMA: 
 
-Confidencialidad e Información. Cada una de las Partes^ deberá tratar como
-estrictamente confidencial toda la información a la que tengan acceso como consecuencia de la presente Oferta (en adelante la “Información Confidencial”), la que no podrá ser divulgada ni cedida a tercero alguno, y no podrá ser utilizada para fines distintos de los estipulados en la
-presente. A su vez cada una de las Partes deberá asegurar que los términos y condiciones de este apartado sean expresamente respetados por todos sus dependientes o personal que pudieran llegar a conocer y/o utilizar la Información Confidencial.
+Confidencialidad e Información. Cada una de las Partes deberá tratar como estrictamente confidencial toda la información a la que tengan acceso como consecuencia de la presente Oferta (en adelante la “Información Confidencial”), la que no podrá ser divulgada ni cedida a tercero alguno, y no podrá ser utilizada para fines distintos de los estipulados en la presente. A su vez cada una de las Partes deberá asegurar que los términos y condiciones de este apartado sean expresamente respetados por todos sus dependientes o personal que pudieran llegar a conocer y/o utilizar la Información Confidencial.
 
 La información no se considerará como Información Confidencial únicamente si: a. La Aplicación y Usuario Transportista ya la conocen libre de cualquier obligación de confidencialidad al momento de obtenerla; b) Es del conocimiento público y esto no fue a través de un acto de la otra Parte como consecuencia de la violación de los términos de la presente Oferta; o c) En caso de ser requerida formalmente a cualquiera de las Partes por un organismo público o tribunal en uso de sus facultades.
 
@@ -99,7 +96,7 @@ Publicidad o Promociones. Uso de Marcas. Ninguna de las Partes podrá utilizar l
 
 ## NOVENA: 
 
-Violación de la normativa aplicable.^ Cada Parte declara y garantiza a la otra el total cumplimiento con la normativa vigente aplicable a la actividad propia de cada una de las Partes y se obligan a mantenerse indemnes e indemnizar a la otra Parte por los daños y perjuicios originados en cualquier reclamo, acción o demanda incluyendo gastos de cualquier índole, originadas en el reclamo judicial o extrajudicial de cualquier tercero en virtud de un incumplimiento a la normativa vigente relacionado con los Servicios objeto de esta oferta.
+Violación de la normativa aplicable. Cada Parte declara y garantiza a la otra el total cumplimiento con la normativa vigente aplicable a la actividad propia de cada una de las Partes y se obligan a mantenerse indemnes e indemnizar a la otra Parte por los daños y perjuicios originados en cualquier reclamo, acción o demanda incluyendo gastos de cualquier índole, originadas en el reclamo judicial o extrajudicial de cualquier tercero en virtud de un incumplimiento a la normativa vigente relacionado con los Servicios objeto de esta oferta.
 
 ## DÉCIMA: 
 
@@ -107,12 +104,9 @@ Subcontratación y Cesión. Ninguna de las Partes podrá subcontratar a terceros
 
 ## DÉCIMO PRIMERA: 
 
-Jurisdicción y notificaciones. En caso de que surja cualquier controversia
-respecto a la interpretación, ejecución, contenido y cumplimiento de la presente Oferta y/o de la relación comercial emergente en virtud de la aceptación de la presente Oferta, se someterá a la jurisdicción de los Tribunales Nacionales Ordinarios en lo Comercial con asiento en la Ciudad de Buenos Aires, renunciando a cualquier otro fuero o competencia que pudiere
-corresponder por cualquier razón presente o futura.
+Jurisdicción y notificaciones. En caso de que surja cualquier controversia respecto a la interpretación, ejecución, contenido y cumplimiento de la presente Oferta y/o de la relación comercial emergente en virtud de la aceptación de la presente Oferta, se someterá a la jurisdicción de los Tribunales Nacionales Ordinarios en lo Comercial con asiento en la Ciudad de Buenos Aires, renunciando a cualquier otro fuero o competencia que pudiere corresponder por cualquier razón presente o futura.
 
-Todas las notificaciones previstas en la presente Oferta que tuvieren causa en la misma, deberán efectuarse por escrito y notificarse en forma fehaciente en los domicilios que figuran en el encabezamiento de la presente Oferta, excepto aquellas que las Partes hubieran pactado
-expresamente que pudieran realizarse vía e-mail o de cualquier otro modo.
+Todas las notificaciones previstas en la presente Oferta que tuvieren causa en la misma, deberán efectuarse por escrito y notificarse en forma fehaciente en los domicilios que figuran en el encabezamiento de la presente Oferta, excepto aquellas que las Partes hubieran pactado expresamente que pudieran realizarse vía e-mail o de cualquier otro modo.
 
 ## DÉCIMO SEGUNDA: 
 
