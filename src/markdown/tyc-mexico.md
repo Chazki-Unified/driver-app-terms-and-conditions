@@ -1,115 +1,338 @@
-## TÉRMINOS Y CONDICIONES
+<h2 style="text-align:center;">Términos y Condiciones Marco para Drivers de Chazki</h2>
 
-Se adjunta documento de términos y condiciones generales, que integran la presente Oferta, donde se describen los Servicios que serán brindados por __Entrega Inovadora SAPI de CV__. a través de la Aplicación o plataforma digital provista y administrada, por la misma, a fin de conectar usuarios de dicha plataforma, es decir usuarios que requieran los servicios de transporte de mercaderías (Los “Usuarios Cargadores”), con usuarios interesados en prestar el servicio de transporte de mercadería (Los “Usuarios Transportistas”) y los servicios prestados (Los “Transportes” o El “Transporte”), asignando servicios de publicación de solicitudes de oferta, solicitud de ofertas, gestión de solicitudes, ofertas y aceptaciones, y acercamiento de partes, (en adelante, La “Oferta”).
+### 1. Definiciones:
 
-## PROPUESTA
+- __Compañía__: Se refiere a Chazki o cualquier entidad legal asociada que presta los servicios de logística de última milla a través de la tecnología proporcionada por la Aplicación.
+- __Aplicación__: Plataforma digital, descargable en dispositivos móviles, que permite a los Drivers gestionar y aceptar servicios de entrega.
+- __Driver__: Persona natural mayor de edad o persona jurídica que utiliza la Aplicación para prestar servicios de entrega y transporte.
+- __Paquete__: Bien mueble que puede ser trasladado de un lugar a otro, conforme a las normativas locales y excluyendo los bienes prohibidos.
+- __Bienes Prohibidos__: Mercancías cuyo traslado está prohibido por la ley, tales como armas, explosivos, drogas, sustancias tóxicas o ilegales.
+- __Tercero__: Persona natural o jurídica que solicita a un Driver realizar uno o más pedidos de entrega.
+- __Tarifa__: Valor económico que el Driver debe pagar a Chazki por el uso de los Servicios, deducido de los pagos de los Clientes.
+- __Liquidación__: Proceso mediante el cual se efectúa el cálculo de los servicios prestados por el Driver y el correspondiente pago.
 
-En caso de que la presente Oferta resulte aceptada por Ustedes, la relación comercial emergente en virtud de la aceptación de la presente Oferta se regirá por las siguientes condiciones:
+### 2. Aceptación de los Términos y Condiciones:
 
-## CONDICIONES
+<div style="margin-left: 25px;">
+  Al aceptar estos Términos y Condiciones, los conductores (en adelante, "Drivers") se adhieren íntegramente a los mismos, así como a todas las modificaciones y/o actualizaciones que puedan surgir. La aceptación otorgará al Driver la autorización para el uso de la plataforma digital de Chazki (en adelante, "la Aplicación" y/o "el Sitio Web").
 
-## PRIMERA:
+  En caso de no estar de acuerdo con estos Términos y Condiciones, y/o sus eventuales modificaciones o actualizaciones, el Driver debe abstenerse de utilizar la plataforma. El uso continuo de la misma implica la aceptación tácita de los términos vigentes.
 
-1.1. Objeto. Servicios a cargo de La Aplicación. Sujeto a los términos y condiciones de la presente Oferta, __Entrega Inovadora SAPI de CV__ ofrece a usted realizar el servicio de provisión y administración de una plataforma digital (en adelante “la Aplicación”, respectivamente) a fin de conectar usuarios de dicha plataforma, es decir Usuarios Cargadores, con Usuarios Transportistas, asignando servicios de publicación de solicitudes de oferta, solicitud de ofertas, gestión de solicitudes, ofertas y aceptaciones, y acercamiento de partes y gestión de pagos, (en adelante, los “Servicios”).
+  Chazki se reserva el derecho de modificar los Términos y Condiciones en cualquier momento, notificando dichas modificaciones a través de la Aplicación. Si el Driver no acepta las modificaciones, deberá dejar de utilizar la plataforma. El uso continuo de la misma implica la aceptación tácita de los nuevos términos.
 
-1.2. __Entrega Inovadora SAPI de CV__ además, a través de “la Aplicación”, administrará el cobro a los Usuarios Cargadores de los Transportes de mercaderías. Comprometiéndose luego a distribuir las sumas facturadas a los Usuarios Transportistas, en la forma establecida en la presente Oferta. A tal efecto, __Entrega Inovadora SAPI de CV__ preparará y remitirá al Usuario Cargador una factura por el precio total del Transporte según lo acordado entre el Usuario Cargador y el Usuario Transportista, y pondrá a disposición de los Usuarios Cargadores distintos medios digitales de pago. Una vez recibido el pago por parte del Usuario Cargador, y contra la presentación de la correspondiente factura por parte del Usuario Transportista, la Aplicación abonará la suma que corresponda, deduciendo previamente la Comisión, según lo previsto en la Cláusula Cuarta.
+  El contrato de vinculación entre __Chazki__ y los __Drivers__ se materializa con la aceptación de estos Términos y Condiciones.
+</div>
 
-1.3. __Entrega Inovadora SAPI de CV__ declara y garantiza que cuenta con el personal, conocimientos, infraestructura y experiencia necesarios para proporcionar los Servicios. La Aplicación reconoce expresamente que corren por su exclusiva cuenta los gastos referidos a los Servicios que ofrece.
+### 3. Naturaleza de la Relación Contractual:
 
-## SEGUNDA:
+<div style="margin-left: 25px;">
+  Estos Términos y Condiciones se rigen por la ley mercantil del país en el que opere el Driver. La relación entre Chazki y los Drivers es de naturaleza comercial, sin que se genere relación laboral alguna entre las partes. El vínculo es estrictamente contractual, basado en la prestación independiente de servicios de transporte o reparto bajo la modalidad de contrato civil/comercial. En ningún caso se entenderá que existe una representación, sociedad o relación de subordinación laboral entre el Driver y Chazki. El Driver actúa de manera independiente, sin subordinación ni dependencia de Chazki.
+</div>
 
-2.1. Uso de la Aplicación por el Usuario Transportista.
+### 4. Uso de la Aplicación por el Driver:
 
-Por su parte, el Usuario Transportista podrá, a través de la Aplicación, aceptar o rechazar las solicitudes de oferta realizadas por los Usuarios Cargadores, y realizar el Transporte de mercaderías. El Usuario Transportista desde ya declara que el Transporte será coordinado y gestionado directamente por él, sin involucrar personal contratado a su cargo. El Transporte, una vez aceptado, abarca las tareas de recoger la mercadería, trasladarla y descargarla de acuerdo a las solicitudes que realicen los Usuarios Cargadores. El Usuario Transportista se compromete además a dar cumplimiento con el debido uso de la Aplicación, y a cumplir con las normas tecnológicas que impone el mismo, colaborando a la captación de un mayor número de Usuarios Cargadores, a fin de colaborar con la continuidad de funcionamiento de la Aplicación.
+<div style="margin-left: 25px;">
+  El Driver puede conectarse o desconectarse de la plataforma a su conveniencia, sin estar obligado a aceptar todas las solicitudes de entrega. Sin embargo, para mantener la calidad del servicio, Chazki se reserva el derecho de limitar la cantidad de rechazos permitidos antes de afectar la cuenta del Driver.
+</div>
 
-El uso de la Aplicación y los Servicios brindados por la Aplicación no tienen un tiempo de duración estipulado. El Usuario Transportista podrá conectarse o desconectarse de la Aplicación en los horarios que lo desee, y siempre que se respeten las normas de buen uso de la Aplicación.
+### 5. Objeto del Contrato:
 
-Tampoco el Usuario Transportista tiene obligación de aceptar la totalidad de las publicaciones de solicitudes provistas por la Aplicación, aunque por normas de marketing la Aplicación pueda eventualmente establecer un límite de publicaciones a rechazar, para evitar que el Servicio provisto por la Aplicación sea deficiente.
+<div style="margin-left: 25px;">
+  Chazki se compromete a proporcionar al Driver una plataforma digital para la gestión de servicios de entrega bajo demanda. La Aplicación permite conectar a los Clientes que solicitan servicios de transporte con los Drivers que los ejecutan, sin que Chazki intervenga en la prestación directa del servicio de transporte. Chazki no garantiza un número mínimo de pedidos ni un volumen específico de ingresos para los Drivers.
+</div>
 
-2.2. Obligaciones del Usuario Transportista:
+### 6. Proceso de Registro de Drivers
 
-Los Usuarios Transportistas deberán:
+<div style="margin-left: 25px;">
+  Para utilizar la plataforma, los Drivers deben registrarse y proporcionar datos personales verídicos y documentación como antecedentes penales actualizados, licencias de conducir, permisos de circulación y seguros. Chazki se reserva el derecho de aceptar o rechazar la solicitud de registro si no se cumplen los requisitos. Los Datos Personales deben actualizarse regularmente, y cualquier error o inexactitud podría resultar en la cancelación de la cuenta.
+</div>
 
-1. Estar previamente habilitados a tal fin, contar con toda la documentación habilitante ante la Autoridad de Transporte y Tránsito. Por ello, y a los fines de que la Aplicación pueda llevar un registro de vehículos, titulares y choferes de cada unidad, el titular del vehículo deberá presentar a la Aplicación, copia autenticada de las habilitaciones que le han sido otorgadas, a él o a sus conductores, por la autoridad de contralor competente.
+### 7. Obligaciones de los Drivers:
 
-2. Efectuar en tiempo y forma en el vehículo afectado al Transporte de mercadería, los controles y mantenimiento técnicos, mecánicos e higiénicos correspondientes, todos a su cargo, debiendo presentar a la Aplicación, en caso de serles así requeridos, los comprobantes que acrediten su cumplimiento.
+<div style="margin-left: 25px;">
+  El Driver se compromete a:
 
-3. Cumplir con la debida registración ante los organismos de control.
+  1. Cumplir con los requisitos de verificación establecidos por Chazki, incluyendo la presentación de licencias, seguros y permisos exigidos por la ley local.
+  2. Proveer información real y actualizada al registrarse en la plataforma, y actualizarla periódicamente según lo exijan las normativas locales.
+  3. Mantener en óptimas condiciones su vehículo, así como contar con un equipo móvil compatible con la Aplicación y un plan de datos adecuado.
+  4. Utilizar la Aplicación únicamente para prestar servicios de transporte de manera lícita, respetando las normativas locales de tránsito y transporte.
+  5. No transportar bienes prohibidos o de naturaleza ilícita, incluyendo pero no limitado a drogas, armas, explosivos, sustancias infecciosas o cualquier bien que infrinja las normativas locales.
+  6. Informar inmediatamente a Chazki y a las autoridades competentes sobre cualquier intento de transportar bienes ilícitos.
+  7. No consumir sustancias prohibidas, como alcohol o drogas, mientras presta servicios a través de la plataforma.
+  8. Respetar la confidencialidad de los datos de los Clientes y de Chazki, y eliminar cualquier dato personal una vez finalizado el servicio de entrega.
+  9. Responsabilizarse exclusivamente por la ejecución del servicio desde la aceptación del pedido hasta la entrega final.
+  10. Cumplir con las normativas sanitarias dictadas por las autoridades locales, en especial las relativas al control de enfermedades contagiosas.
+  11. Eliminar toda la información personal de los Clientes una vez concluido el servicio de entrega.
+  12. No realizar ingeniería inversa o modificar la Aplicación, ni utilizarla para desarrollar software no autorizado.
+  13. Responsabilizarse por los impuestos asociados a su actividad y cumplir con las normativas fiscales locales.
+  14. Cumplir con las recomendaciones de buen servicio, incluyendo aquellas contenidas en archivos anexos que serán proporcionados tras la aceptación de los T&C.
+  15. Verificar que los envíos correspondan a la descripción y estén embalados correctamente.
+</div>
 
-4. Encontrarse al día con el pago de todo gravamen nacional, provincial, municipal y los de orden privado, que se refieran a los vehículos, al servicio de Transporte que se presta, y a sus empleados. La Aplicación podrá requerir en cualquier momento al Usuario Transportista, toda la documentación que acredite el cumplimiento de tales obligaciones fiscales.
+### 8. Obligaciones de Chazki:
 
-5. Portar en forma permanente en el vehículo destinado al servicio de Transporte de mercaderías: a) Las licencias y autorizaciones para conducir el vehículo, en original, ya sea titular o autorizado; B) La habilitación original; C) Tarjeta emitida por la compañía de seguros obligatoria para circular. Como así también, toda documentación obligatoria exigida por los organismos municipales, provinciales y nacionales.
+<div style="margin-left: 25px;">
+  Por su parte, Chazki se compromete a:
 
-6. Contar con todos los seguros requeridos por la legislación aplicable para ejecutar el Transporte en forma regular, de manera que las personas que intervengan en tal ejecución (choferes), y cosas implicadas (mercaderías) se encuentren debidamente protegidas durante todo el tiempo que dure la prestación.
+  1. Mantener disponible la Aplicación para el uso de los Drivers, siempre que estos cumplan con los Términos y Condiciones.
+  2. Realizar la gestión de cobro de los servicios prestados por el Driver a los Clientes, conforme a los términos establecidos.
+  3. Comunicar cualquier cesión de derechos u obligaciones derivados de estos Términos y Condiciones.
+</div>
 
-2.3. Elementos para la prestación del servicio de Transporte
+### 9. Forma de Pago:
 
-Los Usuarios Transportistas prestarán el servicio de Transporte con elementos de su propiedad siendo de su exclusiva responsabilidad la utilización de los elementos de seguridad exigidos o recomendados por la normativa aplicable y la autoridad de aplicación (por ejemplo, la utilización de casco en el caso que el vehículo sea una moto o bicicleta).
+<div style="margin-left: 25px;">
+  El Driver autoriza a Chazki a actuar como su mandatario para gestionar los pagos de los servicios de reparto prestados. Chazki cobrará en nombre del Driver a los Clientes por los servicios realizados y se encargará de descontar los impuestos aplicables y la comisión de Chazki antes de devolver el valor neto de los servicios al Driver.
 
-La Aplicación podrá poner a disposición de los Usuarios Transportistas insumos con la identificación de la Aplicación, tales como artículos de vestimenta, mochilas o cualquier otro que pudiera ser utilizado en la prestación del servicio de Transporte. Los mismos podrán ser ofrecidos en forma gratuita u onerosa por la Aplicación, y su uso será optativo para los Usuarios Transportistas.
+  El Driver es el único responsable de sus obligaciones fiscales y debe emitir los documentos tributarios correspondientes por los servicios prestados. Chazki no asume responsabilidad por la retención, pago o entero de los impuestos generados por los servicios del Driver.
 
-2.4. Incumplimiento de las obligaciones:
+  Los pagos se realizarán quincenalmente, los días 20 y el quinto día del mes siguiente, o el día hábil siguiente, basándose en los envíos efectivamente completados dentro de ese periodo. Para que se realicen los pagos, el Driver deberá haber emitido las facturas correspondientes por los servicios prestados.
 
-Queda expresamente establecido que ante cualquier incumplimiento y/o cumplimiento defectuoso por parte del Usuario Transportista, de las obligaciones establecidas en la presente Oferta, como así también ante la inobservancia de las demás disposiciones normativas que rigen la materia, la Aplicación tendrá derecho a resolver la Relación Comercial, persiguiendo además la reparación e indemnización integral de los daños y perjuicios sufridos como consecuencia del incumplimiento del Usuario Transportista. A tal fin, la Aplicación se encuentra facultada para exigir al Usuario Transportista, cuando lo estime conveniente, la exhibición de todas las constancias que permitan constatar el cumplimiento por parte del Usuario Transportista de las obligaciones establecidas en esta Oferta y las que por imperativo legal correspondan. El Usuario Transportista no podrá negarse a remitir inmediatamente tales constancias, quedando la Aplicación facultada para, ante la negativa o demora del Usuario Transportista, dar por terminada la Relación Comercial y proceder a la baja de la cuenta del Usuario Transportista, sin necesidad de notificación previa.
+  En caso de que un envío requiera devolución de productos y esta devolución no se realice dentro de la quincena en la que se solicitó el despacho, el pago de dicho envío se trasladará a la siguiente quincena en la que se haya concretado la devolución.
+</div>
 
-2.5. Seguro del Usuario Transportista:
+### 10. Cancelaciones del Servicio:
 
-Seguro. El Usuario Transportista deberá contratar un seguro de responsabilidad civil, el que estará a su entero cargo, para realizar el Transporte, hacia terceros no transportados, contra todo daño a personas y a bienes por acontecimientos, mercaderías transportadas, el que deberá ajustarse, modificarse y/o actualizarse, de acuerdo a las nuevas disposiciones municipales que pudieran dictarse en el futuro. El titular del vehículo deberá contratar dicho seguro con una compañía de primera línea, y que sea de conformidad con la Aplicación.
+<div style="margin-left: 25px;">
+  El Driver puede cancelar solicitudes previamente aceptadas únicamente por razones justificadas, tales como enfermedad, accidente, desperfecto del vehículo, caso fortuito o fuerza mayor. Sin embargo, cancelaciones reiteradas sin justificación adecuada pueden resultar en la suspensión temporal o permanente de la cuenta del Driver.
 
-## TERCERA:
+  El Driver debe esperar hasta un máximo de 10 minutos en el punto de recogida o punto de entrega para contactar con el Cliente. Si no logra establecer contacto o comunicación en el Punto de Retiro después de 10 minutos de espera, puede cancelar la solicitud, aplicándose al Cliente el cobro de la tarifa base.
 
-Plazo. En caso de resultar aceptada la presente Oferta, la relación comercial entre las Partes emanada de la Aceptación de la Oferta (la “Relación Comercial”) tendrá una vigencia de cuatro (4) meses a contar desde la Fecha de Entrada en Vigencia, conforme dicho término se define en la cláusula Décimo Segunda de la presente (el “Plazo”). Dicho Plazo se prorrogará en forma automática por períodos iguales de cuatro (4) meses, excepto que cualquiera de las Partes notificara a la otra, en forma fehaciente, su voluntad de no prorrogar la Relación Comercial, lo cual deberá ser efectuado con diez (10) días de anticipación al vencimiento del Plazo. En el supuesto de finalización de la Oferta, se aplica lo enunciado en la cláusula sexta.
+  En caso de no lograr contacto o comunicación con el receptor en el Punto de Entrega, el Driver también puede esperar 10 minutos. Si el contacto no se realiza, el Driver podrá optar por regresar al Punto de Retiro, lo que conlleva el cobro de la tarifa de retorno al cliente. Alternativamente, el Driver puede optar por mantener el producto en su poder por un máximo de 24 horas hábiles, durante las cuales se coordinará un nuevo intento de entrega, que también será cargado al Cliente.
+</div>
 
-## CUARTA: 
+### 11. Limitación de Responsabilidad:
 
-### Contraprestación y forma de pago.
+<div style="margin-left: 25px;">
+  Chazki no será responsable por ningún daño, incidente o pérdida que ocurra durante la prestación del servicio por parte del Driver, a menos que dichos daños sean atribuibles a dolo o negligencia directa de Chazki.
+  
+  1. Chazki no asume ninguna responsabilidad por la pérdida, daño o deterioro de la carga transportada durante el servicio.
+  2. Chazki no será responsable de las interrupciones, fallas o problemas en la disponibilidad de la Aplicación, incluyendo aquellos derivados del uso de Internet, servidores, o cualquier otro factor externo fuera de su control.
+  3. Chazki no tiene ninguna responsabilidad sobre el contenido de los envíos ni sobre la interacción entre los Drivers y los Clientes. El Driver es directamente responsable de cualquier daño, pérdida o incidente que ocurra durante la ejecución del servicio de transporte.
 
-4.1. Contraprestación por los Servicios. Como contraprestación por los Servicios ofrecidos por la Aplicación, el Usuario Transportista, deberá abonar a la Aplicación el valor que para el caso esté establecido en la plataforma de la Aplicación (en adelante la “Comisión”).
+  Chazki no garantiza el funcionamiento continuo de la Aplicación, ya que puede estar sujeta a disfunciones o retrasos inherentes al uso de Internet y de las comunicaciones electrónicas. No se podrá exigir ningún tipo de indemnización por fallas técnicas o dificultades en los sistemas, salvo que dichas fallas sean atribuibles a una acción negligente de Chazki.
 
-4.2. A los efectos del pago y cobro, según corresponda, de la Comisión, dentro los primeros diez (10) días de cada mes posterior al cobro por parte de la Aplicación de un Transporte abonado por el Usuario Cargador respectivo, la Aplicación procederá a liquidar y pagar al Usuario Transportista, el monto que resulte de deducir del valor del Transporte el valor correspondiente a la Comisión, reteniendo este último. Debiendo el Usuario Transportista presentar, como condición previa al pago por la Aplicación, una factura por los Transportes realizados. El monto de la facturación correspondiente al Usuario Transportista, será abonado mediante transferencia bancaria a la cuenta bancaria de titularidad del Usuario Transportista informada por él, dentro los cuarenta (40) días desde el cobro del Transporte, o de la entrega de la factura correspondiente, lo que fuere posterior.
+  Cualquier incidente que implique virus informáticos o programas maliciosos que afecten el dispositivo del Driver no será responsabilidad de Chazki, salvo que dicho incidente se derive directamente de su actuación negligente.
 
-## QUINTA: 
+  En resumen, Chazki no garantiza que la Aplicación funcione en todos los dispositivos o sistemas operativos y no será responsable de los daños que se puedan derivar de fallas técnicas, interrupciones del servicio o mal uso del sistema por parte de terceros.
+</div>
 
-### Independencia de las Partes. No Competencia.
+### 12. Indemnidad e Indemnización a Chazki:
 
-5.1. Cada una de las Partes actuará en forma independiente, y no como socio, agente, representante, por lo que, ni esta Oferta, ni la prestación de los Servicios, podrá implicar, de forma alguna, una relación laboral entre el personal del Usuario Transportista y la Aplicación, o viceversa, no siendo objeto la presente Oferta de regulación por parte de la legislación laboral. En dicho orden de ideas se deja expresa constancia que no existe nota de dependencia alguna entre cada una de las Partes, y que por ello no existe ni relación laboral ni de trabajo ni contrato de trabajo entre las mismas, sino la de dos personas independientes. En su carácter de empresas independientes, en ningún momento tendrán la facultad de comprometer a la otra en contrato alguno, ni contratar empleados o personal en nombre o representación de la otra, no existiendo responsabilidad alguna de ninguna, respecto de los empleados que pudiese contratar o tener la otra.
+<div style="margin-left: 25px;">
+  El Driver se compromete a mantener indemne a Chazki frente a cualquier reclamo de terceros derivado de la ejecución de los servicios, y a indemnizar a la empresa por cualquier gasto en el que incurra como resultado de demandas o multas impuestas por las autoridades o terceros.
 
-5.2. Tanto la Aplicación como el Usuario Transportista, cumplirán con cada una de las obligaciones a su cargo derivadas de la legislación aplicable, pagarán los sueldos y otros beneficios de sus propios empleados, y remuneración de su personal, debiendo mantener dichos pagos al día y dentro de los términos de la ley. Cada una de las Partes será exclusivamente responsable por el estricto cumplimiento de todas las normas laborales, previsionales, de Seguridad Social, de Higiene y Seguridad en el Trabajo, impositivas, etc. correspondientes a su propio personal, en especial las relativas a salarios, vacaciones, jubilaciones, descanso semanal, jornada legal, accidentes, servicios de medicina prepaga, y/o cualquier concepto obligatorio aplicable, etc., así como de todos los gastos derivados de cualquier reclamo relativo a sus empleados o personal contratado, liberándose entre ellas de toda responsabilidad respecto del personal de la otra.
+  El Driver reconoce que la prestación del Servicio de Reparto al Tercero es de su entera responsabilidad, aunque se vea afectada por eventos de caso fortuito o fuerza mayor. De acuerdo con lo anterior, usted se obliga a:
 
-5.3. NO EXCLUSIVIDAD: Tanto la Aplicación como el Usuario Transportista podrán, sin el consentimiento escrito de la otra Parte, celebrar acuerdos similares al presente con otras Partes que compitan con ellos.
+  - Responder directamente ante el Tercero por la sustracción, hurto, robo, extravío, pérdida o deterioro del contenido de los Paquetes.
+  - Responder directamente ante el Tercero por el daño que, con ocasión de la prestación de sus servicios, provoque a sus instalaciones, así como al mobiliario, bienes, equipos y/o a las personas y animales que se encuentren al interior de aquellas.
+  - Mantener indemne e indemnizar a Chazki, sus accionistas, directivos, empleados y representantes en caso cualquiera de ellos se vea afectado moral o económicamente por el reclamo, denuncia o demanda que presente un Tercero que considere que la ejecución del Servicio de Reparto ha sido no idónea y/o ilícita y que le genera daños, perjuicios o gastos que deban ser indemnizados, resarcidos o reparados.
+  - Mantener indemne e indemnizar a Chazki, sus accionistas, directivos, empleados y representantes en caso cualquiera de ellos se vea afectado moral o económicamente por las multas y medidas correctivas que les ordene cancelar o cumplir alguna autoridad, así como por el valor de los daños, perjuicios y gastos que invoquen terceros, a consecuencia de cómo ejecutó el Servicio de Reparto.
 
-## SEXTA: 
+  Si a pesar de lo señalado en el numeral anterior Chazki se ve obligada a responder frente al Tercero y pagar alguna suma de dinero, o a realizar alguna obligación de hacer o de no hacer que le sea perjudicial, con la finalidad de no ver afectada su reputación o sus intereses, entonces usted se obliga a restituir a  Chazki los importes y gastos en que hayamos incurrido al tener que cumplir tal pago u obligaciones de hacer o de no hacer.
 
-Rescisión Anticipada sin Causa. Cada una de las Partes podrá dar por terminada la Relación Comercial emergente de la aceptación de la presente Oferta, en cualquier momento, sin necesidad de expresión de causa y sin encontrarse obligados a abonar indemnización alguna. A tal efecto, la Aplicación podrá proceder, en cualquier momento, a dar de baja la cuenta del Usuario Transportista, en cuyo caso enviará una notificación al correo electrónico registrado, informando acerca de tal cancelación. El Usuario Transportista, por su parte, podrá, en cualquier momento, dar de baja su cuenta utilizando el proceso establecido en la Aplicación a tal efecto.
+  Asimismo, al aceptar estos Términos y Condiciones el Driver autoriza por anticipado, así como de manera expresa e irrevocable a Chazki, a descontar o a compensar automáticamente y sin trámite previo, de los importes que estén en poder de Chazki pendientes de pago a favor del Driver, el valor de los montos que nos exija pagar algún Tercero a quien el Driver prestó servicios o las autoridades o los terceros por los supuestos descritos en los dos numerales anteriores.
 
-## SÉPTIMA: 
+  Los derechos de acceso y uso de la Aplicación por parte del Driver podrían verse afectados total o parcialmente como consecuencia de algún evento que califique como supuestos de fuerza mayor o caso fortuito según la legislación nacional, en cuyo caso el incumplimiento de  Chazki no se reputará ilícito. Tampoco se considerará a  Chazki responsable de incumplimiento si, a consecuencia de un mandato jurisdiccional, arbitral, o proveniente de autoridad administrativa, dirigido directa o indirectamente contra  Chazki, se ven impactados o afectados de alguna manera los derechos de acceso y uso de la Aplicación o lo Servicios que prestamos.
+</div>
 
-Confidencialidad e Información. Cada una de las Partes deberá tratar como estrictamente confidencial toda la información a la que tengan acceso como consecuencia de la presente Oferta (en adelante la “Información Confidencial”), la que no podrá ser divulgada ni cedida a tercero alguno, y no podrá ser utilizada para fines distintos de los estipulados en la presente. A su vez cada una de las Partes deberá asegurar que los términos y condiciones de este apartado sean expresamente respetados por todos sus dependientes o personal que pudieran llegar a conocer y/o utilizar la Información Confidencial.
+### 13. Vigencia: 
 
-La información no se considerará como Información Confidencial únicamente si: a. La Aplicación y Usuario Transportista ya la conocen libre de cualquier obligación de confidencialidad al momento de obtenerla; b) Es del conocimiento público y esto no fue a través de un acto de la otra Parte como consecuencia de la violación de los términos de la presente Oferta; o c) En caso de ser requerida formalmente a cualquiera de las Partes por un organismo público o tribunal en uso de sus facultades.
+<div style="margin-left: 25px;">
+  La presente autorización de uso es indefinida, no obstante, Chazki podrá unilateralmente revocar la autorización de uso en cualquier momento si así lo desea. 
+</div>
 
-La obligación de confidencialidad establecida en la presente Oferta se mantendrá vigente aun después de concluida la Relación Comercial por cualquier causa.
+### 14. Resolución del Contrato:
 
-## OCTAVA: 
+<div style="margin-left: 25px;">
+  Chazki podrá resolver el contrato unilateralmente en caso de incumplimiento de las obligaciones del Driver, tales como la violación de los Términos y Condiciones, el uso indebido de la plataforma, o cualquier conducta que afecte la reputación de Chazki.
 
-Publicidad o Promociones. Uso de Marcas. Ninguna de las Partes podrá utilizar las marcas, logos, nombres comerciales o cualquier otro derecho de propiedad comercial o industrial de la otra parte, sus afiliadas o controlantes, sin su expresa autorización previa otorgada por escrito. Queda aclarado que el uso de los elementos con la identificación de la Aplicación, referidos en la Cláusula 2.3 será en cualquier caso considerado un uso autorizado de la marca y nombre de la Aplicación, siempre y cuando la cuenta del Usuario Transportista estuviere operativa. Cada una de las Partes mantendrá libre e indemne a la otra de todo reclamo, responsabilidades y costos, que pudiera efectuársele en virtud a derechos de patentes, marcas, copyright, de diseño o de uso no autorizado de las marcas y/o logos de cualquiera de las Partes.
+  Chazki se reserva el derecho de revocar el acceso a la Aplicación de manera unilateral y sin previo aviso en caso de incumplimiento de los T&C por parte del Driver, o si se considera que existe riesgo para la seguridad pública, el orden público o la reputación de la Chazki.
 
-## NOVENA: 
+  El acceso a la plataforma podrá ser revocado de manera inmediata por Chazki en los siguientes casos:
+  - Infracción de normas legales o penales, tales como falsificación de documentos, lavado de activos o suplantación de identidad.
+  - Conducta inapropiada que afecte el patrimonio o la reputación de Chazki o terceros.
+  - Falsificación de información sobre la afiliación al sistema de seguridad social o pensiones.
+  - Uso ilícito de la plataforma para fines no relacionados con la prestación de servicios logísticos, como la promoción de actividades comerciales sin autorización de Chazki.
 
-Violación de la normativa aplicable. Cada Parte declara y garantiza a la otra el total cumplimiento con la normativa vigente aplicable a la actividad propia de cada una de las Partes y se obligan a mantenerse indemnes e indemnizar a la otra Parte por los daños y perjuicios originados en cualquier reclamo, acción o demanda incluyendo gastos de cualquier índole, originadas en el reclamo judicial o extrajudicial de cualquier tercero en virtud de un incumplimiento a la normativa vigente relacionado con los Servicios objeto de esta oferta.
+  El Driver puede resolver el contrato en caso de incumplimiento por parte de Chazki en la gestión de pagos u otras obligaciones contractuales.
+</div>
 
-## DÉCIMA: 
+### 15. Rescisión Sin Causa:
 
-Subcontratación y Cesión. Ninguna de las Partes podrá subcontratar a terceros para ejecutar las obligaciones a su cargo establecidas en esta Oferta. Ninguna de las Partes podrá ceder los derechos y obligaciones que surgen de la presente o de la aceptación de la presente sin el previo consentimiento por escrito de la otra y toda cesión pretendida sin dicho consentimiento será nula e inválida.
+<div style="margin-left: 25px;">
+  Cualquiera de las partes puede rescindir la relación comercial sin necesidad de causa, notificando a la otra parte con al menos 10 días de antelación. Chazki puede cancelar la cuenta del Driver enviando una notificación por correo electrónico.
+</div>
 
-## DÉCIMO PRIMERA: 
+### 16. Seguros:
 
-Jurisdicción y notificaciones. En caso de que surja cualquier controversia respecto a la interpretación, ejecución, contenido y cumplimiento de la presente Oferta y/o de la relación comercial emergente en virtud de la aceptación de la presente Oferta, se someterá a la jurisdicción de los Tribunales Nacionales Ordinarios en lo Comercial con asiento en la Ciudad de Buenos Aires, renunciando a cualquier otro fuero o competencia que pudiere corresponder por cualquier razón presente o futura.
+<div style="margin-left: 25px;">
+  El DRIVER deberá contratar un seguro de responsabilidad civil, el que estará a su entero cargo, para realizar el Transporte, hacia terceros no transportados, contra todo daño a personas y a bienes por acontecimientos, mercaderías transportadas, el que deberá ajustarse, modificarse y/o actualizarse, de acuerdo a las nuevas disposiciones municipales que pudieran dictarse en el futuro. El titular del vehículo deberá contratar dicho seguro con Chazki de primera línea, y que esté de conformidad con la Aplicación. Chazki no asume ninguna responsabilidad por la falta de cumplimiento del Driver en esta obligación.
+</div>
 
-Todas las notificaciones previstas en la presente Oferta que tuvieren causa en la misma, deberán efectuarse por escrito y notificarse en forma fehaciente en los domicilios que figuran en el encabezamiento de la presente Oferta, excepto aquellas que las Partes hubieran pactado expresamente que pudieran realizarse vía e-mail o de cualquier otro modo.
+### 17. Cumplimiento de Normativa sobre Lavado de Activos:
 
-## DÉCIMO SEGUNDA: 
+<div style="margin-left: 25px;">
+  El Driver declara que sus ingresos provienen de actividades lícitas y no está vinculado con actividades de lavado de activos, financiación del terrorismo u otras actividades ilegales. El Driver se compromete a actualizar su información personal y financiera al menos una vez al año o cuando Chazki lo solicite, y a cumplir con todas las normativas locales sobre prevención de lavado de activos.
+</div>
 
-Plazo y forma de aceptación de la Oferta. La presente Oferta es irrevocable y será válida durante el plazo de quince (15) días desde la fecha de su recepción por el Usuario Transportista, debiendo aceptarse antes de dicha fecha. La implementación de dicha medida será interpretada como aceptación irrevocable de la totalidad de esta Oferta, sin que sea necesaria otra manifestación de voluntad, expresa o tácita, por su parte (la “Aceptación de la Oferta”). Asimismo, la fecha en que se produzca la Aceptación de la Oferta coincidirá con la fecha de entrada en vigencia de la relación comercial emergente en virtud de la aceptación de la presente Oferta (la “Fecha de Entrada en Vigencia”).
+### 18. Independencia de las Partes:
+
+<div style="margin-left: 25px;">
+  La relación entre Chazki y Driver es de carácter comercial y no laboral. El Driver actúa de manera independiente, sin exclusividad, y puede prestar servicios a otras plataformas.
+</div>
+
+### 19. Impuestos:
+
+<div style="margin-left: 25px;">
+  El Driver es responsable de determinar y pagar todos los impuestos asociados a su actividad de transporte. Chazki no se responsabiliza por el cumplimiento de las obligaciones fiscales del Driver.
+</div>
+
+### 20. Propiedad Intelectual:
+
+<div style="margin-left: 25px;">
+  El DRIVER reconoce y acepta que todos los derechos de autor sobre el código fuente y código objeto de la aplicación, así como los derechos de propiedad industrial sobre los contenidos y/o cualesquiera otros elementos insertados en la Aplicación (incluyendo, sin limitación, marcas, logotipos, nombres comerciales, textos, imágenes, gráficos, diseños, sonidos, bases de datos, software, diagramas de flujo, presentación, audio y vídeo), pertenecen a Chazki.
+
+  Chazki autoriza al DRIVER a utilizar, visualizar, imprimir, descargar y almacenar los contenidos y/o los elementos insertados en la Aplicación exclusivamente para su uso personal, privado y no lucrativo, absteniéndose de realizar sobre los mismos cualquier acto de descompilación, ingeniería inversa, modificación, divulgación o suministro. Cualquier otro uso o explotación de cualesquiera contenidos y/u otros elementos insertados en la Aplicación distinto de los aquí expresamente previstos estará sujeto a la autorización previa de Chazki.
+
+  El Driver tiene una licencia limitada y no exclusiva para utilizar la Aplicación únicamente en los términos establecidos.
+</div>
+
+### 21. Protección de Datos Personales:
+
+<div style="margin-left: 25px;">
+  El Driver autoriza a Chazki a tratar sus datos personales conforme a las políticas de privacidad aplicables. Los datos serán utilizados exclusivamente para la gestión de los servicios y actividades comerciales de  Chazki.
+
+  Chazki declara que toda la información personal de las partes involucradas en estos Términos y Condiciones está sujeta a un sistema razonable de protección de datos personales, tal y como lo disponen las normas establecidas en la materia así como las normas internacionales. Los Datos Personales que el driver proporciona al momento del Registro se integrarán en una base de datos personales de la cual es responsable Chazki, y cuya dirección figura en el encabezamiento del presente documento.
+
+  El DRIVER confirma y acepta que presta su consentimiento previo, expreso e informado para que Chazki pueda tratar sus datos personales en un todo de acuerdo a lo dispuesto en las Políticas de Privacidad y/u otros documentos que complementan el presente.
+
+  El driver confirma y acepta que Chazki se reserve el derecho a utilizar el número de teléfono, dirección de correo electrónico y/o cualquier otro dato aportado por el driver al momento del registro, para contactarlo siempre que sea necesario, en relación con la Aplicación que Chazki  administra y para llevar a cabo actividades de marketing, publicidad y promociones, tanto de Chazki como de terceros, todo ello conforme con lo dispuesto por la normativa aplicable.
+
+  Asimismo, el driver consciente que sus datos personales sean compartidos entre las empresas vinculadas y filiales de Chazki.
+</div>
+
+### 22. Exclusividad y No Exclusividad
+
+<div style="margin-left: 25px;">
+  La contratación de los Servicios no genera obligación de exclusividad entre el Driver y Chazki. El Driver es libre de prestar servicios a otras plataformas o empresas.
+</div>
+
+### 23. Confidencialidad:
+
+<div style="margin-left: 25px;">
+  El Driver se compromete a tratar de manera confidencial toda la información a la que tenga acceso durante la prestación de los servicios, y a no divulgar a terceros sin autorización expresa de Chazki.
+</div>
+
+### 24. Modificación de los Términos y Condiciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá modificar los Términos y Condiciones en cualquier momento, notificando al Driver a través de la Aplicación. Si el Driver no está de acuerdo con las modificaciones, deberá dejar de utilizar la plataforma.
+</div>
+
+### 25. Notificaciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá realizar las notificaciones al Driver a través de una notificación general en la Aplicación, a través de mensajes de WhatsApp o de llamadas al número telefónico registrado, y/o a través de correos electrónicos a la dirección de correo electrónico facilitada por el Usuario en su Cuenta. El DRIVER podrá comunicarse con Chazki mediante el envío de un correo electrónico a la dirección soychazki.mx@chazki.com.
+</div>
+
+### 26. Información sobre el compromiso de Chazki para con la prevención de lavado de activos y financiamiento del terrorismo: 
+
+<div style="margin-left: 25px;">
+  En todo momento al utilizar la Aplicación, Chazki y la totalidad de los DRIVERS se comprometen a cumplir con toda normativa vigente en materia de prevención de lavado activos y financiamiento del terrorismo, a través de la utilización de la misma. Por su parte, Chazki reafirma su compromiso en materia de prevención de lavado de activos y financiamiento del terrorismo fomentando la utilización de fondos lícitos en todas las operaciones cursadas por y a través de la Aplicación, destinando sus mejores esfuerzos a realizar la debida diligencia disponible a los efectos cumpliendo con las disposiciones vigentes tanto locales como internacionales así como también con las buenas prácticas existentes y aplicables.
+
+  Chazki llevará adelante la labor con integridad, transparencia y ética, velando por los principios consagrados en su Código de Ética.
+</div>
+
+### 27. Disposiciones Generales-.
+
+<div style="margin-left: 25px;">
+  Si cualquier disposición de estos Términos y Condiciones se considerara ilegal, nula o inexigible, ya sea en su totalidad o en parte de conformidad con la legislación aplicable, dicha disposición o parte de esta se considerará que no forma parte de estos Términos y Condiciones, no siendo afectada la legalidad, validez o exigibilidad del resto de las disposiciones de estos Términos y Condiciones. 
+
+  En ese caso, las partes deberán reemplazar dicha disposición ilegal, nula o inexigible, en todo o en parte por una disposición legal, válida y exigible que tenga, en la medida de lo posible, un efecto similar al que tenía la disposición ilegal, nula o inexigible, dados los contenidos y el propósito de estos Términos y Condiciones.
+</div>
+
+### 28. Cesión de derechos y obligaciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá ceder, transferir, delegar o disponer de los derechos u obligaciones derivados de la presente vinculación (incluyendo su posición contractual), total o parcialmente, para lo cual, en virtud de su aceptación de los presentes Términos y Condiciones, los DRIVERS otorgan su consentimiento expreso y de manera previa para la realización de dichas acciones.
+
+  El DRIVER no podrá ceder sus derechos y obligaciones dimanantes de los presentes Términos y Condiciones sin el previo consentimiento escrito de Chazki. 
+</div>
+
+### 29. Legislación Aplicable y Jurisdicción: Anexo 1
+
+<div style="margin-left: 25px;">
+  Las disposiciones legales y jurisdiccionales aplicables a los servicios prestados por el Driver dependerán del país en el que opere. Para regular específicamente la relación entre Chazki y el Driver en lo que respecta a la legislación local y la jurisdicción competente, las partes se regirán conforme al Anexo 1.
+
+  El Anexo 1 forma parte integrante de estos Términos y Condiciones y detalla la legislación aplicable, así como la jurisdicción competente, de acuerdo con la residencia o país de operación del Driver.
+
+  El Anexo 1 deberá ser debidamente firmado y aceptado por ambas partes, y su contenido prevalecerá sobre cualquier disposición general de los Términos y Condiciones en caso de conflicto en relación con la legislación o jurisdicción aplicable.
+</div>
 
 
+<h2 style="text-align:center;">Anexo 1: México</h2>
+
+### 1. Legislación Aplicable y Jurisdicción:
+
+<div style="margin-left: 25px;">
+  Este anexo está destinado a regular las particularidades legales aplicables a los Drivers que operan en México bajo los términos y condiciones establecidos por Entrega Innovadora SAPI de CV, en adelante "Chazki México".
+
+  Cualquier controversia, conflicto o reclamación que surja en relación con el uso de la Aplicación, los servicios prestados, o los presentes Términos y Condiciones, se someterá a la jurisdicción de los tribunales competentes en la Ciudad de México, renunciando a cualquier otro fuero o jurisdicción que pudiera corresponder.
+
+  Los servicios prestados en México estarán regulados por las leyes aplicables de los Estados Unidos Mexicanos, incluyendo pero no limitándose a la Ley de Protección al Consumidor, Ley del Impuesto sobre la Renta (ISR), Ley del Impuesto al Valor Agregado (IVA), y todas aquellas normativas locales, estatales y federales aplicables a las actividades de transporte y logística en México.
+</div>
+
+### 2. Documentación Requerida:
+
+<div style="margin-left: 25px;">
+  Para prestar servicios como Driver en México a través de la plataforma Chazki, el Driver deberá proporcionar los siguientes documentos:
+
+  - Identificación oficial vigente (INE o Pasaporte).
+  - Licencia de conducir válida y vigente, correspondiente al tipo de vehículo utilizado.
+  - Permiso de circulación vigente.
+  - Póliza de seguro de responsabilidad civil con cobertura suficiente para el transporte de mercancías.
+  - Tarjeta de circulación actualizada.
+  - Certificado de antecedentes penales actualizado, emitido dentro de los últimos seis meses.
+</div>
+
+### 3. Obligaciones Fiscales del Driver:
+
+<div style="margin-left: 25px;">
+  - Cumplimiento de Obligaciones Tributarias: El Driver se compromete a cumplir con todas las obligaciones fiscales derivadas de su actividad económica en México. Esto incluye:
+  - Inscripción en el Registro Federal de Contribuyentes (RFC).
+  - Declaración y pago del Impuesto sobre la Renta (ISR) y el Impuesto al Valor Agregado (IVA), conforme a las leyes fiscales vigentes.
+  - Emisión de los Comprobantes Fiscales Digitales por Internet (CFDI) por los servicios de transporte prestados a través de la plataforma Chazki.
+</div>
+
+### 4. Responsabilidad Fiscal:
+
+<div style="margin-left: 25px;">
+  Chazki México no será responsable de la retención, pago o entero de los impuestos generados por los servicios prestados por el Driver. Cada Driver deberá cumplir con las normativas fiscales correspondientes, y Chazki podrá solicitar evidencia de dicho cumplimiento cuando lo considere necesario.
+</div>
+
+### 5. Seguros Obligatorios:
+
+<div style="margin-left: 25px;">
+  El Driver deberá mantener vigente una póliza de seguro de responsabilidad civil que cubra daños a terceros y a la mercancía transportada durante la prestación de los servicios. Este seguro debe cumplir con las normativas locales y tener una cobertura adecuada para el tipo de transporte realizado.
+
+  En caso de utilizar un automóvil o motocicleta, el Driver deberá contar con un seguro obligatorio de responsabilidad civil (seguro vehicular) conforme a lo establecido por la Ley de Caminos, Puentes y Autotransporte Federal.
+
+  La falta de cumplimiento de esta obligación podrá resultar en la suspensión o cancelación de la cuenta del Driver en la plataforma.
+</div>
+
+### 6. Protección de Datos Personales:
+
+<div style="margin-left: 25px;">
+  Chazki México se compromete a cumplir con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. El Driver autoriza a Chazki a tratar sus datos personales conforme a la legislación aplicable y a las políticas de privacidad de la plataforma.
+
+  Los datos personales proporcionados por el Driver serán utilizados únicamente para los fines relacionados con la operación de la plataforma, la gestión de los servicios de entrega y el cumplimiento de las obligaciones fiscales y legales derivadas de dicha actividad.
+
+  El Driver tiene derecho a acceder, rectificar, cancelar u oponerse al tratamiento de sus datos personales (derechos ARCO), conforme a la normativa vigente en México.
+</div>
+
+### Aceptación del Anexo:
+
+<div style="margin-left: 25px;">
+  Al firmar este Anexo, el Driver acepta todos los términos y condiciones descritos en este documento y se compromete a cumplir con las normativas locales y las obligaciones establecidas para prestar los servicios de transporte a través de la plataforma de Chazki México.
+</div>
