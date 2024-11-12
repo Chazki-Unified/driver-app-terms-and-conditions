@@ -330,9 +330,3 @@
 
   El Driver tiene derecho a acceder, rectificar, cancelar u oponerse al tratamiento de sus datos personales (derechos ARCO), conforme a la normativa vigente en México.
 </div>
-
-### Aceptación del Anexo:
-
-<div style="margin-left: 25px;">
-  Al firmar este Anexo, el Driver acepta todos los términos y condiciones descritos en este documento y se compromete a cumplir con las normativas locales y las obligaciones establecidas para prestar los servicios de transporte a través de la plataforma de Chazki México.
-</div>
