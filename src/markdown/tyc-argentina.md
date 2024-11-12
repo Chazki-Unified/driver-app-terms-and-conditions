@@ -19,6 +19,7 @@
 - __Liquidación__: Proceso mediante el cual se efectúa el cálculo de los servicios prestados por el Driver y el correspondiente pago.
 
 ### 2. Aceptación de los Términos y Condiciones:
+
 <div style="margin-left: 25px;">
   Al aceptar estos Términos y Condiciones, los conductores (en adelante, "Drivers") se adhieren íntegramente a los mismos, así como a todas las modificaciones y/o actualizaciones que puedan surgir. La aceptación otorgará al Driver la autorización para el uso de la plataforma digital de Chazki (en adelante, "la Aplicación" y/o "el Sitio Web").
 
