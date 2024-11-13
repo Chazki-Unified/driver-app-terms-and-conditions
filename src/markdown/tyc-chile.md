@@ -1,408 +1,320 @@
-# Términos y Condiciones y Política de Privacidad “Drivers” TodoVa SpA (“TodoVa”)
-
-### I. Antecedentes de TodoVa
-
-TodoVa es una sociedad por acciones constituida conforme a la legislación chilena
-y domiciliada en Santiago de Chile. TodoVa se dedica a la prestación de servicios de
-apoyo a personas dedicadas general o esporádicamente al despacho y flete de
-artículos variados (los “Drivers”) mediante la operación, administración y
-desarrollo de la aplicación para dispositivos móviles “TodoVa” y sitio web
-(www.TodoVa.cl), cuya principal función es servir de conexión entre los Drivers y
-quienes requieran de sus servicios. Asimismo, TodoVa actúa como recaudador del
-precio de los referidos despachos realizados por los Drivers, cobrando una
-comisión variable conforme a las características del despacho. Se hace presente
-que entre los Drivers y TodoVa no existe relación de carácter laboral, sino
-meramente civil, no teniendo ninguna obligación con ellos distinta al pago de los
-servicios de despacho efectuados y las demás que se detallen en lo sucesivo. En
-consecuencia, TodoVa no presta servicios de transporte ni de encomienda
-directamente, ni opera como empresa de transporte ni encomiendas, sino que
-tales servicios son prestados por los Drivers.
-
-
-### II. Relación Contractual
-
-Al aceptar electrónicamente mediante el Registro en el sitio web
-http://drivers.todova.cl (Landing Page), el Driver estará automáticamente
-adhiriéndose y aceptando someterse íntegramente a estos Términos y Condiciones
-(TyCs) como también de cualquiera de sus eventuales modificaciones. De no
-aceptarlo, no podrá utilizar la Aplicación ni acceder al Servicio en toda su
-funcionalidad. En cualquier momento se podrá modificar y actualizar en todo o en
-parte los TyCs, previa comunicación al Driver.
-
-### III. Condiciones del Servicio
-
-__i. De los Envíos En general__, no existen restricciones a los productos que pueden ser objeto
-del Servicio, exceptuando los siguientes:
-
-- Personas o animales (vivos o muertos);
-- Artículos ilegales o prohibidos por la ley, robados o hurtados o que exijan de un
-    permiso adicional de la autoridad competente para ser transportados;
-- Artículos frágiles (salvo que se encuentren rotulados como tales por el Usuario);
-- Artículos peligrosos, tóxicos, explosivos, inflamables, etc.
-
-__ii. Del Registro de los Drivers.__
-
-El acceso a la Aplicación, a la prestación de los Servicios y la posibilidad de integrar
-la base de Drivers autorizados de TodoVa, requiere que el Driver se registre en el
-Landing Page y complete un formulario proporcionando una serie de datos de
-carácter personal o privado (“Datos Personales”). Posteriormente se le pedirá
-documentación de respaldo, para la revisión y análisis de TodoVa, la cual se
-reserva el derecho de aceptar o rechazar al Driver de conformidad a sus
-necesidades. Una vez que el postulante a Driver haya completado el formulario de
-registro, este será enviado automáticamente a TodoVa, quien aprobará o
-denegará el registro del postulante a Driver. Una vez revisada y aprobada la
-inscripción por TodoVa se entenderá que el Driver ingresa a la base de datos de
-Drivers autorizados de TodoVa, y ésta le enviará al postulante a Driver un correo
-electrónico indicando que se encuentra habilitado para operar como Driver. Desde
-la recepción del correo electrónico indicado estará en condiciones de acceder a la
-Aplicación con sus respectivas credenciales y contraseñas, pudiendo comenzar a
-recibir ofertas. Para proceder a la inscripción y ser aceptado como Driver éste
-deberá tener como mínimo 18 años.
-
-Los Datos Personales requeridos para la inscripción son los siguientes, sin que la siguiente
-enunciación sea taxativa sino meramente enunciativa:
-
-- Nombre completo y apellidos;
-- RUT o cédula nacional de identidad para chilenos o extranjeros;
-- Información relativa a la cuenta corriente, cuenta vista o cuenta RUT u otra de carácter
-    financiera necesaria para el uso de la aplicación;
-- Certificado de antecedentes penales. Este certificado deberá ser actualizado cada 1 año,
-    bajo sanción de cancelarse la cuenta e inscripción en la base de datos de Drivers;
-- En el caso que se trate de personas jurídicas, se debe acompañar el Certificado de
-    Vigencia de la Sociedad emitido por el Registro de Comercio respectivo, los poderes
-    para actuar y el nombre, y RUT, de sus representantes legales; y,
-- En el caso que el Driver vaya a prestar sus servicios a través de automóvil o motocicleta,
-    se deberá acompañar la licencia para conducir, permiso de circulación y cualquier
-    documento que autorice el uso del vehículo designado para prestar el servicio como
-    Seguro Obligatorio vigente o SOAP. Adicionalmente, el Driver deberá cumplir con los
-    siguientes requisitos de inscripción para que ésta sea operativa: (i) suscribir
-    electrónicamente un mandato remunerado con TodoVa en virtud del cual TodoVa
-    cobrará el precio del Servicio a cada Usuario por cuenta del Driver, una copia del cual
-    que se adjunta como Anexo a estos TYC formando parte de ellos; (ii) autorizar a TodoVa
-    para realizar la recopilación y almacenamiento de los Datos Personales para los usos
-    requeridos para operación de la Aplicación y la prestación del Servicio. Los costos de la
-    documentación requerida serán de costo y cargo exclusivo del Driver. LOS DATOS
-    PERSONALES Y LA INFORMACIÓN PROPORCIONADA DEBEN SER VERÍDICOS, EXACTOS Y
-    PRECISOS, SIENDO DEBER DEL DRIVER QUE DICHA INFORMACIÓN NO CONTENGA
-    ERRORES O FALSEDADES.
-
-Es obligación del Driver el mantener sus Datos Personales actualizados cada vez que utilice
-la Aplicación o preste el Servicio. Si el Driver no mantiene la información de su cuenta de
-forma exacta, completa y actualizada, podrá resultar en su imposibilidad para acceder y
-utilizar la Aplicación y acceder al Servicio, e incluso en la cancelación de la cuenta por
-parte de TodoVa. La información entregada a TodoVa será utilizada para operar la
-Aplicación y prestar el Servicio. La información será almacenada, procesada y utilizada en
-diferentes medios, por lo que cualquier error, falla o daño que tengan causa en
-información errónea, falsa o incompleta no será responsabilidad de TodoVa sino de
-quienes la entregaron.
-
-Asimismo, el Driver al aceptar estos TYC declara que la información proporcionada al
-momento del registro es veraz, exacta y actualizada.
-
-El Driver al entregar Datos Personales confiere a TodoVa el derecho de utilizar los mismos
-para todos los objetivos necesarios conducentes a operar la Aplicación y prestar el Servicio
-de manera óptima a los Usuarios. TodoVa se encuentra facultada para llevar a cabo todos
-los actos tendientes a corroborar los Requisitos para ser Driver, pudiendo al efecto revisar
-toda la información entregada por el Driver y a tomar las medidas que estime necesarias si
-considera que existen inexactitudes u omisiones.
-
-El uso de la cuenta es estrictamente personal, por lo que se prohíbe toda transacción,
-donación o enajenación a cualquier título de la cuenta. Tampoco se podrá autorizar a
-terceros a acceder a la cuenta y/o hacer uso de sus funciones. Las claves, contraseñas u
-otra información entregada por el Driver deben ser custodiadas por él en todo momento;
-su entrega a terceros, pérdida, uso prohibido o ilícito, o cualquier acto sobre ellas que
-contravenga los presentes TYC o la ley vigente, no es responsabilidad de TodoVa. En
-cualquiera de estas circunstancias, será obligación del Driver notificar a TodoVa así como a
-las autoridades competentes. Asimismo, en caso que el Driver sospechare que alguien ha
-obtenido acceso a su clave o si ésta se ha perdido o ha sido robada deberá contactar
-inmediatamente al administrador de la Aplicación al siguiente email
-contactodrivers@todova.cl
-
-**iii. Obligaciones del Driver**
-
-- Corroborar que el Envío que reciba corresponda a la descripción del mismo realizado en
-    la Aplicación por el Usuario conforme a la fotografía del Envío.
-- Constatar que el Envío esté debidamente embalado y rotulado en caso de ser necesario.
-- Verificar que el volumen y peso del Envío corresponda al Medio de Transporte.
-- Adoptar todas las medidas y precauciones necesarias y comercialmente razonables para
-    prestar el debido, seguro y oportuno Servicio, aceptado por éste, tomando en
-    consideración las características del Envío (por ejemplo, si es frágil, su volumen y peso);
-- Velar por su seguridad e integridad personal;
-- Cumplir con sus obligaciones tributarias personales; esto es reteniendo y pagando el
-    impuesto correspondiente al Servicio, de ser procedente; emitiendo y haciendo entrega
-    directamente al Usuario de los documentos tributarios aplicables al Servicio, salvo que
-    esta obligación sea asumida por TodoVa según sea el caso, mediante la emisión de una
-    Factura de Compra.
-- Verificar que el Envío no se encuentre dentro de las prohibiciones de estos TYC;
-- Iniciar la prestación del Servicio de manera inmediata al momento de aceptar una
-    solicitud de Servicio;
-- Entregar “Datos Personales” verídicos y correctos para efectos de integrar la base de
-    datos de Drivers autorizados de TodoVa;
-- Contar con los equipamientos necesarios en el medio de transporte a utilizar para la
-    prestación del Servicio de modo que el despacho sea efectuado en términos seguros y
-    adecuados en consideración al Envío;
-- El Driver deberá mantener actualizado y completo en la Aplicación la etapa del
-    despacho en que se encuentra el Envío;
-
-- Prestar un Servicio en forma amable y responsable.
-- Debe respetar los protocolos establecidos por TodoVa. Los que serán difundidos por
-    correo y/o en la página web.
-- El Driver debe realizar la entrega de las solicitudes donde lo estipule el Usuario y para
-    tal efecto debe ponerse el contacto con el mismo para coordinar la entrega. No es
-    responsabilidad de TodoVa que el Driver logre contacto con el Usuario.
-
-### IV. Pago y Facturación
-
-Para efectuar el cobro al Usuario por los Servicios prestados por el Driver, éste suscribe
-con TodoVa un mandato remunerado, para que éste último proceda a cobrar al Usuario
-los Servicios por cuenta y en nombre del Driver, cobros que incluirán los impuestos
-aplicables según corresponda.
-
-TodoVa devolverá al Driver el valor bruto de los Servicios prestados, esto es descontados
-los impuestos de ser aplicables y deducido el monto de la comisión de TodoVa por
-concepto del mandato oneroso de cobro.
-
-TodoVa no es responsable de la retención, pago y entero de los impuestos que pueda
-generar el Servicio prestado por el Driver, quien es el único y exclusivo responsable de
-emitir los documentos tributarios correspondientes a su Servicio.
-
-La tarifa que el Usuario se obligue a pagar por el Servicio se establecerá por TodoVa al
-momento de solicitar el Servicio a través de la Aplicación tomando en consideración las
-características del Envío, el tipo de vehículo que se seleccione y a la distancia a recorrer,
-entre otros factores.
-
-La tarifa pagada por el Usuario es definitiva y no reembolsable.
-
-Asimismo, se establece que en el evento que el Envío hubiese sido rechazado por el
-destinatario o que, por cualquier otra razón, no imputable al Driver, no pueda ser
-entregado la tarifa del referido Servicio deberá ser pagada por el Usuario, al igual que
-cualquier otro costo que se genere por un nuevo despacho del Envío.
-
-El Usuario deberá efectuar el pago a través del método de pago seleccionado e indicado
-en su cuenta al momento de solicitar el Servicio, el cual se entiende conocido y aceptado
-por parte del Driver. Si por cualquier causa el método de pago indicado es inválido o no
-sirve para realizar el cobro el Driver podrá perseguir el cobro adeudado por todos los
-medios legales.
-
-TodoVa rendirá cuentas del mandato oneroso de cobro y depositará los pagos al Driver
-por los Servicios prestados y completados quincenalmente, los días 20 y el quinto día del
-mes siguiente, o al día siguiente hábil (Las quincenas se consideran desde el día 1 hasta el
-15 y desde el día 16 hasta el último día del mes) considerando un período mínimo de cinco
-días hábiles entre fin de quincena y depósito. Los envíos no terminados, que requieran
-de la devolución de los productos, no se tomarán en cuenta para efectuar los
-cálculos de los pagos quincenales a menos que la devolución haya sido concretada
-oportunamente, es decir, dentro de la quincena en que se solicitó el despacho. Si
-la devolución de los productos se concreta transcurrida la quincena a que se hace
-referencia este párrafo, el pago correspondiente a tal despacho se efectuará la
-quincena en la que se haya concretado la devolución.
-
-### V. Cancelaciones, Anulaciones de Servicios y Tiempos
-
-Los Drivers podrán cancelar las solicitudes una vez aceptadas si por alguna razón no
-pudieran realizarla. No obstante, reiteradas cancelaciones por parte de los Drivers son
-motivo de suspensión de cuenta.
-
-El Usuario tendrá un periodo de tres minutos desde que solicita el Servicio para desistirse
-unilateralmente del mismo sin que ello le genere cobro alguno.
-
-Lo anterior no se aplicará si dentro de los tres minutos indicados, el Driver haya llegado al
-punto de retiro del envío. En este caso, se cobrará la tarifa base al Usuario.
-
-Los Drivers deben esperar un máximo de 10 minutos en el Punto de Retiro y Punto de
-Entrega respectivamente, para lograr contacto con el Usuario y/o persona de contacto.
-
-Si el Driver no logra contacto y/o comunicación con el receptor en el Punto de Retiro, el
-mismo debe esperar 10 minutos. Transcurrido este tiempo puede cancelar la solicitud. Se
-aplicará al Usuario el cobro de la tarifa base.
-
-Una vez que el Driver esté en poder del artículo, no podrá cancelarse y se efectuará el
-cobro correspondiente de forma íntegra.
-
-El Usuario podrá cancelar sin cobro cuando el driver ya haya aceptado la solicitud, pero
-tarda más del tiempo máximo de espera en llegar a punto de retiro (Tiempo
-máximo=Tiempo Estimado*1,15+5 minutos).
-
-Asimismo, se establece que en el evento que el Envío hubiese sido rechazado por el
-destinatario, o que, por cualquier otra razón, no imputable al Driver, no pueda ser
-entregado los cargos por dicho Envío serán pagados por el Usuario, al igual que cualquier
-otro costo que se genere por un nuevo despacho del Envío.
-
-Al mismo tiempo, es responsabilidad del Usuario ingresar toda la información necesaria y
-válida para que el Driver pueda realizar el servicio de manera exitosa, pudiendo contactar
-al Usuario y/o persona de contacto ingresada al momento de generar la solicitud con el fin
-de lograr concretar el servicio.
-
-Si el Driver no logra contacto y/ comunicación con el receptor en el Punto de Entrega, el
-mismo debe esperar 10 minutos. Transcurrido este tiempo puede devolverse al Punto de
-Retiro. En este caso se le aplicará de manera inmediata al Usuario el cobro de la tarifa de
-retorno. El Driver también puede decidir mantener en su poder el producto por un
-máximo de 24 hrs hábiles.
-
-Dentro de las cuales mediante TodoVa se coordinará un nuevo servicio con el fin de
-realizar la entrega si el Usuario lo solicita, este servicio tendrá cargo al Usuario. NO
-ES DE RESPONSABILIDAD DEL DRIVER COMO TAMPOCO DE TODOVA QUE EL RECEPTOR
-DEL PRODUCTO NO SE ENCUENTRE DISPONIBLE Y/O UBICABLE AL MOMENTO DE LA
-ENTREGA.
-
-Todo cobro adicional por diversos conceptos, pero especialmente ligados a peajes,
-estacionamientos, TAG serán cobrados al Usuario.
-
-### VI. Limitación de Responsabilidad de TodoVa
-
-TodoVa no será responsable de daños que se produzcan con ocasión del servicio, sin
-perjuicio de lo establecido por la ley vigente.
-
-TodoVa bajo ninguna circunstancia será responsable de cualquier daño, responsabilidad o
-pérdida de la carga por el Driver, así como tampoco que el usuario no cuente con un
-método de pago válido.
-
-El Driver acepta que TodoVa no tiene responsabilidad alguna en relación con cualquier
-servicio de transporte prestado al usuario.
-
-Las limitaciones de responsabilidad de este apartado no pretenden limitar la
-responsabilidad o alterar sus derechos como consumidor que no puedan excluirse según
-la ley aplicable.
-
-No es responsabilidad de TodoVa ni la naturaleza ni el contenido del Envío.
-
-La Aplicación de TodoVa se lleva a cabo en plataformas virtuales y se encuentra
-condicionada a una serie de factores que no dependen de la misma, como el actuar de
-terceros, el funcionamiento de servidores, entre otras circunstancias que pueden influir
-directa o indirectamente en la disponibilidad del Servicio. Por ello, TodoVa no puede
-garantizar ni tomar responsabilidad por casos en que el sistema se interrumpa, no se
-encuentre disponible o cualquier otra falla que impida un uso adecuado de la Aplicación,
-ni tampoco responder por daños o perjuicios derivados de estas situaciones.
-
-TodoVa no es responsable por ningún tipo de pérdida, daño, robo, inutilización o cualquier
-otra acción o hecho derivado del uso, examen, acceso o cualquier otra forma de
-interacción con la Aplicación y/o el Servicio, salvo que lo anterior sea atribuible a su culpa.
-Cualquier tipo de virus informático o programa malicioso que afectare un dispositivo por
-uso de la Aplicación se debe a factores ajenos e inimputables a TodoVa, por lo que no
-recae sobre ella la responsabilidad que supusiere el daño o perjuicio que éstos causaren.
-No podrá imputársele responsabilidad alguna ni exigir pago de indemnización alguna, en
-virtud de perjuicios resultantes de dificultades técnicas o fallas en los sistemas de internet
-o de la Aplicación, en la medida que no sea atribuible a la culpa de TodoVa.
-
-Por último, TodoVa no garantiza que la Aplicación, o cualquier parte de esta, funcionen en
-cualquier hardware o dispositivo particular.
-
-Además, el Driver acepta que la Aplicación podrá ser objeto de disfunciones o retrasos
-inherentes al uso de Internet y de las comunicaciones electrónicas.
-
-### VII. Privacidad y Protección de Datos Personales
-
-La información personal del Driver que sea almacenada en los servidores o en otros
-medios electrónicos por parte de TodoVa será custodiada por medio de sistemas de
-seguridad electrónicos y físicos, con altos estándares de seguridad.
-
-El acceso y uso de estos datos se encuentra restringido a toda persona, y sólo será
-utilizado para el óptimo funcionamiento del sistema y en aquellos que se detallen con la
-autorización otorgada para tales efectos al momento de efectuar las inscripciones
-correspondientes. De este modo, al momento de suscribir el formulario de inscripción el
-Driver autoriza el uso y recopilación de los Datos
-Personales proporcionados como la recopilación y uso de la información que TodoVa
-pueda obtener con ocasión de la operación de la Aplicación y la prestación del Servicio, ya
-sea información de ubicación, de contacto, etc.
-
-TodoVa declara que cumple la normativa respecto a la protección de Datos Personales y
-protección de la privacidad vigente en Chile.
-
-Los datos financieros y bancarios del Driver a los que TodoVa pudiese tener acceso en
-virtud de la entrega del Servicio, gozan de la misma protección que los Datos Personales y
-TodoVa no hará uso indebido, ilícito, no autorizado o consentido de estos datos. Estos
-datos serán resguardados bajo estrictas medidas de seguridad, limitando el acceso a ellos
-a las personas que expresamente tuvieren acceso según lo consentido por el Driver.
-Cualquier irregularidad que el Driver percibiere respecto a sus datos financieros o
-bancarios debe ser notificada a TodoVa y las autoridades competentes tan pronto se
-tenga conocimiento de ella.
-
-TodoVa no se responsabiliza por la pérdida, reproducción o sustracción de esta
-información que tenga como causa el actuar de terceros, en la medida que no sea
-imputable de manera alguna a su culpa.
-
-La Aplicación y los sitios web conexos utilizan cookies para facilitar su uso. Las cookies son
-pequeños ficheros de texto que el navegador almacena en el disco duro de un ordenador
-y que son necesarias para utilizar la Aplicación y los sitios web conexos. Las cookies que
-utiliza TodoVa no almacenan datos personales, ni ningún tipo de información que pueda
-identificar al Usuario.
-
-### VIII. Disposiciones Generales
-
-Si cualquier disposición de estos TyCs se considerara ilegal, nula o inexigible, ya sea en su
-totalidad o en parte de conformidad con la legislación chilena, dicha disposición o parte
-de esta se considerará que no forma parte de estos TyCs, no siendo afectada la legalidad,
-validez o exigibilidad del resto de las disposiciones de estos TyCs. En ese caso, las partes
-deberán reemplazar dicha disposición ilegal, nula o inexigible, en todo o en parte por una
-disposición legal, válida y exigible que tenga, en la medida de lo posible, un efecto similar
-al que tenía la disposición ilegal, nula o inexigible, dados los contenidos y el propósito de
-estos TyCs.
-
-Toda comunicación entre el Driver y TodoVa deberá realizarse mediante la Aplicación, sitio
-web o mediante correo electrónico dirigido a contacto **@** todova.cl, salvo que se indique
-algo en contrario.
-
-### IX. CANCELACIÓN DE LA CUENTA
-
-El Usuario/Driver podrá solicitar la cancelación de su cuenta en la Aplicación en cualquier
-momento mientras no exista una transacción pendiente. Para estos efectos, el Usuario
-deberá notificar por escrito a TODOVA con una anticipación de al menos 10 días hábiles al
-correo contacto@todova.cl.
-
-TODOVA podrá cancelar la cuenta del Usuario/Driver en la Aplicación en cualquier
-momento mediante el envío de una notificación vía correo electrónico. En caso que
-sobrevenga su muerte o si “TODOVA” toma conocimiento de que carece de capacidad legal o si incurre en algún incumplimiento a estos TYC que no sean alguna de las hipótesis
-que se detallan en el párrafo siguiente. TODOVA cancelará inmediatamente la cuenta del
-Usuario/Driver en la Aplicación en el evento que tenga antecedentes fundados que éste
-está haciendo un uso indebido de la aplicación y que sea contraria a estos TYC o en el
-evento que el uso de la aplicación sea contraria a la ley vigente, al orden público, las
-buenas costumbres y a los derechos de terceros, efectuando TODOVA las comunicaciones
-que sean pertinentes a las autoridades respectivas en el evento que estos usos indebidos
-puedan ser constitutivos de delito o infrinjan la ley o el orden público. Lo anterior es sin
-perjuicio, de las demás medidas y acciones judiciales y extrajudiciales que TODOVA pueda
-adoptar.	
-
-## ANEXO
-
-### MANDATO
-
-**PRIMERO:** Que, por este acto, el Driver viene en conferir mandato especial e irrevocable,
-pero tan amplio y suficiente como en derecho se requiera, a Asesorías e Inversiones
-TodoVa SpA (“TodoVa”), para que en su nombre y representación retire, cobre y perciba,
-judicial y extrajudicialmente, todas las cantidades correspondientes a los pagos que deban
-realizar los Usuarios (los “Pagos”) por los Servicios prestados por el Driver, a través de la
-Aplicación. TodoVa en uso de este poder estará facultada para cobrar, retirar, girar,
-endosar, depositar, percibir valores, recibir y efectuar trasferencias electrónicas de
-fondos, dinero efectivo, cheques, vales vista, y cualquier otra forma en que los Usuarios
-realicen el pago de los Servicios. Asimismo, TodoVa podrá solicitar, tramitar, retirar y
-firmar toda la documentación que se le exija, como si lo hiciera el Driver personalmente,
-sin límite de facultades, que le impidan el eficaz cumplimiento de su cometido. Al efecto,
-se otorga a TodoVa todas las facultades que sean necesarias para el correcto y cabal
-desempeño del presente mandato, pudiendo firmar resguardos y documentos, otorgar
-recibos, cancelaciones, finiquitos y cualquier otro instrumento que se le exija al respecto.
-
-**SEGUNDO:** En el caso de que se trate de cobro de valores y que los pagos se hagan
-mediante cheques, vales-vista, órdenes de pago u otros documentos bancarios análogos,
-sean éstos nominativos a la orden o al portador, TodoVa podrá endosar, cancelar, cobrar y
-percibir los valores correspondientes, sea que tales documentos se giren contra cualquier
-banco comercial.
-
-**TERCERO:** El presente mandato tendrá el carácter de remunerado, percibiendo TodoVa
-una remuneración equivalente a un porcentaje del monto bruto de los Pagos recaudados
-durante el periodo indicado en los TyC conforme a las características del Servicio prestado
-(la “Remuneración”). La Remuneración se entenderá líquida, por lo que deberá agregarse
-el Impuesto al Valor Agregado (IVA) correspondiente. TODOVA informará al Usuario el
-monto aproximado de la tarifa aplicable a cada Servicio solicitado y al Driver el monto de
-la Remuneración asociada a éste cada vez que un Usuario solicite un Servicio. El Driver
-reconoce que al aceptar una solicitud de Servicio acepta la tarifa aplicable y la
-Remuneración informada por TODOVA referida a dicho Servicio. El Driver por este acto autoriza expresamente a TodoVa para retener periódicamente la Remuneración de las
-cantidades que perciba a título de Pago. Todos los gastos en que incurra TodoVa en
-cumplimiento del presente mandato serán de cargo del Driver.
-
-**CUARTO:** El mandato conferido se mantendrá vigente mientras el Driver preste los
-Servicios utilizando la Aplicación. Se deja constancia que el mandato ha sido otorgado en
-interés de ambas partes, de manera que es irrevocable en los términos del artículo
-doscientos cuarenta y uno del Código de Comercio.
-
-**QUINTO:** Domicilio y Jurisdicción. Para todos los efectos legales que deriven del presente
-contrato, las partes fijan su domicilio en la ciudad y comuna de Santiago y se someten a la
-jurisdicción de sus Tribunales Ordinarios de Justicia.
+<h2 style="text-align:center;">Términos y Condiciones Marco para Drivers de Chazki</h2>
+
+### 1. Definiciones:
+
+- __Compañía__: Se refiere a Chazki o cualquier entidad legal asociada que presta los servicios de logística de última milla a través de la tecnología proporcionada por la Aplicación.
+- __Aplicación__: Plataforma digital, descargable en dispositivos móviles, que permite a los Drivers gestionar y aceptar servicios de entrega.
+- __Driver__: Persona natural mayor de edad o persona jurídica que utiliza la Aplicación para prestar servicios de entrega y transporte.
+- __Paquete__: Bien mueble que puede ser trasladado de un lugar a otro, conforme a las normativas locales y excluyendo los bienes prohibidos.
+- __Bienes Prohibidos__: Mercancías cuyo traslado está prohibido por la ley, tales como armas, explosivos, drogas, sustancias tóxicas o ilegales.
+- __Tercero__: Persona natural o jurídica que solicita a un Driver realizar uno o más pedidos de entrega.
+- __Tarifa__: Valor económico que el Driver debe pagar a Chazki por el uso de los Servicios, deducido de los pagos de los Clientes.
+- __Liquidación__: Proceso mediante el cual se efectúa el cálculo de los servicios prestados por el Driver y el correspondiente pago.
+
+### 2. Aceptación de los Términos y Condiciones:
+
+<div style="margin-left: 25px;">
+  Al aceptar estos Términos y Condiciones, los conductores (en adelante, "Drivers") se adhieren íntegramente a los mismos, así como a todas las modificaciones y/o actualizaciones que puedan surgir. La aceptación otorgará al Driver la autorización para el uso de la plataforma digital de Chazki (en adelante, "la Aplicación" y/o "el Sitio Web").
+
+  En caso de no estar de acuerdo con estos Términos y Condiciones, y/o sus eventuales modificaciones o actualizaciones, el Driver debe abstenerse de utilizar la plataforma. El uso continuo de la misma implica la aceptación tácita de los términos vigentes.
+
+  Chazki se reserva el derecho de modificar los Términos y Condiciones en cualquier momento, notificando dichas modificaciones a través de la Aplicación. Si el Driver no acepta las modificaciones, deberá dejar de utilizar la plataforma. El uso continuo de la misma implica la aceptación tácita de los nuevos términos.
+
+  El contrato de vinculación entre __Chazki__ y los __Drivers__ se materializa con la aceptación de estos Términos y Condiciones.
+</div>
+
+### 3. Naturaleza de la Relación Contractual:
+
+<div style="margin-left: 25px;">
+  Estos Términos y Condiciones se rigen por la ley mercantil del país en el que opere el Driver. La relación entre Chazki y los Drivers es de naturaleza comercial, sin que se genere relación laboral alguna entre las partes. El vínculo es estrictamente contractual, basado en la prestación independiente de servicios de transporte o reparto bajo la modalidad de contrato civil/comercial. En ningún caso se entenderá que existe una representación, sociedad o relación de subordinación laboral entre el Driver y Chazki. El Driver actúa de manera independiente, sin subordinación ni dependencia de Chazki.
+</div>
+
+### 4. Uso de la Aplicación por el Driver:
+
+<div style="margin-left: 25px;">
+  El Driver puede conectarse o desconectarse de la plataforma a su conveniencia, sin estar obligado a aceptar todas las solicitudes de entrega. Sin embargo, para mantener la calidad del servicio, Chazki se reserva el derecho de limitar la cantidad de rechazos permitidos antes de afectar la cuenta del Driver.
+</div>
+
+### 5. Objeto del Contrato:
+
+<div style="margin-left: 25px;">
+  Chazki se compromete a proporcionar al Driver una plataforma digital para la gestión de servicios de entrega bajo demanda. La Aplicación permite conectar a los Clientes que solicitan servicios de transporte con los Drivers que los ejecutan, sin que Chazki intervenga en la prestación directa del servicio de transporte. Chazki no garantiza un número mínimo de pedidos ni un volumen específico de ingresos para los Drivers.
+</div>
+
+### 6. Proceso de Registro de Drivers
+
+<div style="margin-left: 25px;">
+  Para utilizar la plataforma, los Drivers deben registrarse y proporcionar datos personales verídicos y documentación como antecedentes penales actualizados, licencias de conducir, permisos de circulación y seguros. Chazki se reserva el derecho de aceptar o rechazar la solicitud de registro si no se cumplen los requisitos. Los Datos Personales deben actualizarse regularmente, y cualquier error o inexactitud podría resultar en la cancelación de la cuenta.
+</div>
+
+### 7. Obligaciones de los Drivers:
+
+<div style="margin-left: 25px;">
+  El Driver se compromete a:
+  
+  1. Cumplir con los requisitos de verificación establecidos por Chazki, incluyendo la presentación de licencias, seguros y permisos exigidos por la ley local.
+  2. Proveer información real y actualizada al registrarse en la plataforma, y actualizarla periódicamente según lo exijan las normativas locales.
+  3. Mantener en óptimas condiciones su vehículo, así como contar con un equipo móvil compatible con la Aplicación y un plan de datos adecuado.
+  4. Utilizar la Aplicación únicamente para prestar servicios de transporte de manera lícita, respetando las normativas locales de tránsito y transporte.
+  5. No transportar bienes prohibidos o de naturaleza ilícita, incluyendo pero no limitado a drogas, armas, explosivos, sustancias infecciosas o cualquier bien que infrinja las normativas locales.
+  6. Informar inmediatamente a Chazki y a las autoridades competentes sobre cualquier intento de transportar bienes ilícitos.
+  7. No consumir sustancias prohibidas, como alcohol o drogas, mientras presta servicios a través de la plataforma.
+  8. Respetar la confidencialidad de los datos de los Clientes y de Chazki, y eliminar cualquier dato personal una vez finalizado el servicio de entrega.
+  9. Responsabilizarse exclusivamente por la ejecución del servicio desde la aceptación del pedido hasta la entrega final.
+  10. Cumplir con las normativas sanitarias dictadas por las autoridades locales, en especial las relativas al control de enfermedades contagiosas.
+  11. Eliminar toda la información personal de los Clientes una vez concluido el servicio de entrega.
+  12. No realizar ingeniería inversa o modificar la Aplicación, ni utilizarla para desarrollar software no autorizado.
+  13. Responsabilizarse por los impuestos asociados a su actividad y cumplir con las normativas fiscales locales.
+  14. Cumplir con las recomendaciones de buen servicio, incluyendo aquellas contenidas en archivos anexos que serán proporcionados tras la aceptación de los T&C.
+  15. Verificar que los envíos correspondan a la descripción y estén embalados correctamente.
+</div>
+
+### 8. Obligaciones de Chazki:
+
+<div style="margin-left: 25px;">
+  Por su parte, Chazki se compromete a:
+
+  1. Mantener disponible la Aplicación para el uso de los Drivers, siempre que estos cumplan con los Términos y Condiciones.
+  2. Realizar la gestión de cobro de los servicios prestados por el Driver a los Clientes, conforme a los términos establecidos.
+  3. Comunicar cualquier cesión de derechos u obligaciones derivados de estos Términos y Condiciones.
+</div>
+
+### 9. Forma de Pago:
+
+<div style="margin-left: 25px;">
+  El Driver autoriza a Chazki a actuar como su mandatario para gestionar los pagos de los servicios de reparto prestados. Chazki cobrará en nombre del Driver a los Clientes por los servicios realizados y se encargará de descontar los impuestos aplicables y la comisión de Chazki antes de devolver el valor neto de los servicios al Driver.
+
+  El Driver es el único responsable de sus obligaciones fiscales y debe emitir los documentos tributarios correspondientes por los servicios prestados. Chazki no asume responsabilidad por la retención, pago o entero de los impuestos generados por los servicios del Driver.
+
+  Los pagos se realizarán quincenalmente, los días 20 y el quinto día del mes siguiente, o el día hábil siguiente, basándose en los envíos efectivamente completados dentro de ese periodo. Para que se realicen los pagos, el Driver deberá haber emitido las facturas correspondientes por los servicios prestados.
+
+  En caso de que un envío requiera devolución de productos y esta devolución no se realice dentro de la quincena en la que se solicitó el despacho, el pago de dicho envío se trasladará a la siguiente quincena en la que se haya concretado la devolución.
+</div>
+
+### 10. Cancelaciones del Servicio:
+
+<div style="margin-left: 25px;">
+  El Driver puede cancelar solicitudes previamente aceptadas únicamente por razones justificadas, tales como enfermedad, accidente, desperfecto del vehículo, caso fortuito o fuerza mayor. Sin embargo, cancelaciones reiteradas sin justificación adecuada pueden resultar en la suspensión temporal o permanente de la cuenta del Driver.
+
+  El Driver debe esperar hasta un máximo de 10 minutos en el punto de recogida o punto de entrega para contactar con el Cliente. Si no logra establecer contacto o comunicación en el Punto de Retiro después de 10 minutos de espera, puede cancelar la solicitud, aplicándose al Cliente el cobro de la tarifa base.
+
+  En caso de no lograr contacto o comunicación con el receptor en el Punto de Entrega, el Driver también puede esperar 10 minutos. Si el contacto no se realiza, el Driver podrá optar por regresar al Punto de Retiro, lo que conlleva el cobro de la tarifa de retorno al cliente. Alternativamente, el Driver puede optar por mantener el producto en su poder por un máximo de 24 horas hábiles, durante las cuales se coordinará un nuevo intento de entrega, que también será cargado al Cliente.
+</div>
+
+### 11. Limitación de Responsabilidad:
+
+<div style="margin-left: 25px;">
+  Chazki no será responsable por ningún daño, incidente o pérdida que ocurra durante la prestación del servicio por parte del Driver, a menos que dichos daños sean atribuibles a dolo o negligencia directa de Chazki.
+  
+  1. Chazki no asume ninguna responsabilidad por la pérdida, daño o deterioro de la carga transportada durante el servicio.
+  2. Chazki no será responsable de las interrupciones, fallas o problemas en la disponibilidad de la Aplicación, incluyendo aquellos derivados del uso de Internet, servidores, o cualquier otro factor externo fuera de su control.
+  3. Chazki no tiene ninguna responsabilidad sobre el contenido de los envíos ni sobre la interacción entre los Drivers y los Clientes. El Driver es directamente responsable de cualquier daño, pérdida o incidente que ocurra durante la ejecución del servicio de transporte.
+
+  Chazki no garantiza el funcionamiento continuo de la Aplicación, ya que puede estar sujeta a disfunciones o retrasos inherentes al uso de Internet y de las comunicaciones electrónicas. No se podrá exigir ningún tipo de indemnización por fallas técnicas o dificultades en los sistemas, salvo que dichas fallas sean atribuibles a una acción negligente de Chazki.
+
+  Cualquier incidente que implique virus informáticos o programas maliciosos que afecten el dispositivo del Driver no será responsabilidad de Chazki, salvo que dicho incidente se derive directamente de su actuación negligente.
+
+  En resumen, Chazki no garantiza que la Aplicación funcione en todos los dispositivos o sistemas operativos y no será responsable de los daños que se puedan derivar de fallas técnicas, interrupciones del servicio o mal uso del sistema por parte de terceros.
+</div>
+
+### 12. Indemnidad e Indemnización a Chazki:
+
+<div style="margin-left: 25px;">
+  El Driver se compromete a mantener indemne a Chazki frente a cualquier reclamo de terceros derivado de la ejecución de los servicios, y a indemnizar a la empresa por cualquier gasto en el que incurra como resultado de demandas o multas impuestas por las autoridades o terceros.
+
+  El Driver reconoce que la prestación del Servicio de Reparto al Tercero es de su entera responsabilidad, aunque se vea afectada por eventos de caso fortuito o fuerza mayor. De acuerdo con lo anterior, usted se obliga a:
+
+  - Responder directamente ante el Tercero por la sustracción, hurto, robo, extravío, pérdida o deterioro del contenido de los Paquetes.
+  - Responder directamente ante el Tercero por el daño que, con ocasión de la prestación de sus servicios, provoque a sus instalaciones, así como al mobiliario, bienes, equipos y/o a las personas y animales que se encuentren al interior de aquellas.
+  - Mantener indemne e indemnizar a Chazki, sus accionistas, directivos, empleados y representantes en caso cualquiera de ellos se vea afectado moral o económicamente por el reclamo, denuncia o demanda que presente un Tercero que considere que la ejecución del Servicio de Reparto ha sido no idónea y/o ilícita y que le genera daños, perjuicios o gastos que deban ser indemnizados, resarcidos o reparados.
+  - Mantener indemne e indemnizar a Chazki, sus accionistas, directivos, empleados y representantes en caso cualquiera de ellos se vea afectado moral o económicamente por las multas y medidas correctivas que les ordene cancelar o cumplir alguna autoridad, así como por el valor de los daños, perjuicios y gastos que invoquen terceros, a consecuencia de cómo ejecutó el Servicio de Reparto.
+
+  Si a pesar de lo señalado en el numeral anterior Chazki se ve obligada a responder frente al Tercero y pagar alguna suma de dinero, o a realizar alguna obligación de hacer o de no hacer que le sea perjudicial, con la finalidad de no ver afectada su reputación o sus intereses, entonces usted se obliga a restituir a  Chazki los importes y gastos en que hayamos incurrido al tener que cumplir tal pago u obligaciones de hacer o de no hacer.
+
+  Asimismo, al aceptar estos Términos y Condiciones el Driver autoriza por anticipado, así como de manera expresa e irrevocable a Chazki, a descontar o a compensar automáticamente y sin trámite previo, de los importes que estén en poder de Chazki pendientes de pago a favor del Driver, el valor de los montos que nos exija pagar algún Tercero a quien el Driver prestó servicios o las autoridades o los terceros por los supuestos descritos en los dos numerales anteriores.
+
+  Los derechos de acceso y uso de la Aplicación por parte del Driver podrían verse afectados total o parcialmente como consecuencia de algún evento que califique como supuestos de fuerza mayor o caso fortuito según la legislación nacional, en cuyo caso el incumplimiento de  Chazki no se reputará ilícito. Tampoco se considerará a  Chazki responsable de incumplimiento si, a consecuencia de un mandato jurisdiccional, arbitral, o proveniente de autoridad administrativa, dirigido directa o indirectamente contra  Chazki, se ven impactados o afectados de alguna manera los derechos de acceso y uso de la Aplicación o lo Servicios que prestamos.
+</div>
+
+### 13. Vigencia: 
+
+<div style="margin-left: 25px;">
+  La presente autorización de uso es indefinida, no obstante, Chazki podrá unilateralmente revocar la autorización de uso en cualquier momento si así lo desea. 
+</div>
+
+### 14. Resolución del Contrato:
+
+<div style="margin-left: 25px;">
+  Chazki podrá resolver el contrato unilateralmente en caso de incumplimiento de las obligaciones del Driver, tales como la violación de los Términos y Condiciones, el uso indebido de la plataforma, o cualquier conducta que afecte la reputación de Chazki.
+
+  Chazki se reserva el derecho de revocar el acceso a la Aplicación de manera unilateral y sin previo aviso en caso de incumplimiento de los T&C por parte del Driver, o si se considera que existe riesgo para la seguridad pública, el orden público o la reputación de la Chazki.
+
+  El acceso a la plataforma podrá ser revocado de manera inmediata por Chazki en los siguientes casos:
+
+  - Infracción de normas legales o penales, tales como falsificación de documentos, lavado de activos o suplantación de identidad.
+  - Conducta inapropiada que afecte el patrimonio o la reputación de Chazki o terceros.
+  - Falsificación de información sobre la afiliación al sistema de seguridad social o pensiones.
+  - Uso ilícito de la plataforma para fines no relacionados con la prestación de servicios logísticos, como la promoción de actividades comerciales sin autorización de Chazki.
+
+  El Driver puede resolver el contrato en caso de incumplimiento por parte de Chazki en la gestión de pagos u otras obligaciones contractuales.
+</div>
+
+### 15. Rescisión Sin Causa:
+
+<div style="margin-left: 25px;">
+  Cualquiera de las partes puede rescindir la relación comercial sin necesidad de causa, notificando a la otra parte con al menos 10 días de antelación. Chazki puede cancelar la cuenta del Driver enviando una notificación por correo electrónico.
+</div>
+
+### 16. Seguros:
+
+<div style="margin-left: 25px;">
+  El DRIVER deberá contratar un seguro de responsabilidad civil, el que estará a su entero cargo, para realizar el Transporte, hacia terceros no transportados, contra todo daño a personas y a bienes por acontecimientos, mercaderías transportadas, el que deberá ajustarse, modificarse y/o actualizarse, de acuerdo a las nuevas disposiciones municipales que pudieran dictarse en el futuro. El titular del vehículo deberá contratar dicho seguro con Chazki de primera línea, y que esté de conformidad con la Aplicación. Chazki no asume ninguna responsabilidad por la falta de cumplimiento del Driver en esta obligación.
+</div>
+
+### 17. Cumplimiento de Normativa sobre Lavado de Activos:
+
+<div style="margin-left: 25px;">
+  El Driver declara que sus ingresos provienen de actividades lícitas y no está vinculado con actividades de lavado de activos, financiación del terrorismo u otras actividades ilegales. El Driver se compromete a actualizar su información personal y financiera al menos una vez al año o cuando Chazki lo solicite, y a cumplir con todas las normativas locales sobre prevención de lavado de activos.
+</div>
+
+### 18. Independencia de las Partes:
+
+<div style="margin-left: 25px;">
+  La relación entre Chazki y Driver es de carácter comercial y no laboral. El Driver actúa de manera independiente, sin exclusividad, y puede prestar servicios a otras plataformas.
+</div>
+
+### 19. Impuestos:
+
+<div style="margin-left: 25px;">
+  El Driver es responsable de determinar y pagar todos los impuestos asociados a su actividad de transporte. Chazki no se responsabiliza por el cumplimiento de las obligaciones fiscales del Driver.
+</div>
+
+### 20. Propiedad Intelectual:
+
+<div style="margin-left: 25px;">
+  El DRIVER reconoce y acepta que todos los derechos de autor sobre el código fuente y código objeto de la aplicación, así como los derechos de propiedad industrial sobre los contenidos y/o cualesquiera otros elementos insertados en la Aplicación (incluyendo, sin limitación, marcas, logotipos, nombres comerciales, textos, imágenes, gráficos, diseños, sonidos, bases de datos, software, diagramas de flujo, presentación, audio y vídeo), pertenecen a Chazki.
+
+  Chazki autoriza al DRIVER a utilizar, visualizar, imprimir, descargar y almacenar los contenidos y/o los elementos insertados en la Aplicación exclusivamente para su uso personal, privado y no lucrativo, absteniéndose de realizar sobre los mismos cualquier acto de descompilación, ingeniería inversa, modificación, divulgación o suministro. Cualquier otro uso o explotación de cualesquiera contenidos y/u otros elementos insertados en la Aplicación distinto de los aquí expresamente previstos estará sujeto a la autorización previa de Chazki.
+
+  El Driver tiene una licencia limitada y no exclusiva para utilizar la Aplicación únicamente en los términos establecidos.
+</div>
+
+### 21. Protección de Datos Personales:
+
+<div style="margin-left: 25px;">
+  El Driver autoriza a Chazki a tratar sus datos personales conforme a las políticas de privacidad aplicables. Los datos serán utilizados exclusivamente para la gestión de los servicios y actividades comerciales de  Chazki.
+
+  Chazki declara que toda la información personal de las partes involucradas en estos Términos y Condiciones está sujeta a un sistema razonable de protección de datos personales, tal y como lo disponen las normas establecidas en la materia así como las normas internacionales. Los Datos Personales que el driver proporciona al momento del Registro se integrarán en una base de datos personales de la cual es responsable Chazki, y cuya dirección figura en el encabezamiento del presente documento.
+
+  El DRIVER confirma y acepta que presta su consentimiento previo, expreso e informado para que Chazki pueda tratar sus datos personales en un todo de acuerdo a lo dispuesto en las Políticas de Privacidad y/u otros documentos que complementan el presente.
+
+  El driver confirma y acepta que Chazki se reserve el derecho a utilizar el número de teléfono, dirección de correo electrónico y/o cualquier otro dato aportado por el driver al momento del registro, para contactarlo siempre que sea necesario, en relación con la Aplicación que Chazki  administra y para llevar a cabo actividades de marketing, publicidad y promociones, tanto de Chazki como de terceros, todo ello conforme con lo dispuesto por la normativa aplicable.
+
+  Asimismo, el driver consciente que sus datos personales sean compartidos entre las empresas vinculadas y filiales de Chazki.
+</div>
+
+### 22. Exclusividad y No Exclusividad
+
+<div style="margin-left: 25px;">
+  La contratación de los Servicios no genera obligación de exclusividad entre el Driver y Chazki. El Driver es libre de prestar servicios a otras plataformas o empresas.
+</div>
+
+### 23. Confidencialidad:
+
+<div style="margin-left: 25px;">
+  El Driver se compromete a tratar de manera confidencial toda la información a la que tenga acceso durante la prestación de los servicios, y a no divulgar a terceros sin autorización expresa de Chazki.
+</div>
+
+### 24. Modificación de los Términos y Condiciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá modificar los Términos y Condiciones en cualquier momento, notificando al Driver a través de la Aplicación. Si el Driver no está de acuerdo con las modificaciones, deberá dejar de utilizar la plataforma.
+</div>
+
+### 25. Notificaciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá realizar las notificaciones al Driver a través de una notificación general en la Aplicación, a través de mensajes de WhatsApp o de llamadas al número telefónico registrado, y/o a través de correos electrónicos a la dirección de correo electrónico facilitada por el Usuario en su Cuenta. El DRIVER podrá comunicarse con Chazki mediante el envío de un correo electrónico a la dirección afiliaciones.cl@chazki.com.
+</div>
+
+### 26. Información sobre el compromiso de Chazki para con la prevención de lavado de activos y financiamiento del terrorismo: 
+
+<div style="margin-left: 25px;">
+  En todo momento al utilizar la Aplicación, Chazki y la totalidad de los DRIVERS se comprometen a cumplir con toda normativa vigente en materia de prevención de lavado activos y financiamiento del terrorismo, a través de la utilización de la misma. Por su parte, Chazki reafirma su compromiso en materia de prevención de lavado de activos y financiamiento del terrorismo fomentando la utilización de fondos lícitos en todas las operaciones cursadas por y a través de la Aplicación, destinando sus mejores esfuerzos a realizar la debida diligencia disponible a los efectos cumpliendo con las disposiciones vigentes tanto locales como internacionales así como también con las buenas prácticas existentes y aplicables.
+
+  Chazki llevará adelante la labor con integridad, transparencia y ética, velando por los principios consagrados en su Código de Ética.
+</div>
+
+### 27. Disposiciones Generales.
+
+<div style="margin-left: 25px;">
+  Si cualquier disposición de estos Términos y Condiciones se considerara ilegal, nula o inexigible, ya sea en su totalidad o en parte de conformidad con la legislación aplicable, dicha disposición o parte de esta se considerará que no forma parte de estos Términos y Condiciones, no siendo afectada la legalidad, validez o exigibilidad del resto de las disposiciones de estos Términos y Condiciones. 
+
+  En ese caso, las partes deberán reemplazar dicha disposición ilegal, nula o inexigible, en todo o en parte por una disposición legal, válida y exigible que tenga, en la medida de lo posible, un efecto similar al que tenía la disposición ilegal, nula o inexigible, dados los contenidos y el propósito de estos Términos y Condiciones.
+</div>
+
+### 28. Cesión de derechos y obligaciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá ceder, transferir, delegar o disponer de los derechos u obligaciones derivados de la presente vinculación (incluyendo su posición contractual), total o parcialmente, para lo cual, en virtud de su aceptación de los presentes Términos y Condiciones, los DRIVERS otorgan su consentimiento expreso y de manera previa para la realización de dichas acciones.
+
+  El DRIVER no podrá ceder sus derechos y obligaciones dimanantes de los presentes Términos y Condiciones sin el previo consentimiento escrito de Chazki. 
+</div>
+
+### 29. Legislación Aplicable y Jurisdicción: Anexo 1
+
+<div style="margin-left: 25px;">
+  Las disposiciones legales y jurisdiccionales aplicables a los servicios prestados por el Driver dependerán del país en el que opere. Para regular específicamente la relación entre Chazki y el Driver en lo que respecta a la legislación local y la jurisdicción competente, las partes se regirán conforme al Anexo 1.
+
+  El Anexo 1 forma parte integrante de estos Términos y Condiciones y detalla la legislación aplicable, así como la jurisdicción competente, de acuerdo con la residencia o país de operación del Driver.
+
+  El Anexo 1 deberá ser debidamente firmado y aceptado por ambas partes, y su contenido prevalecerá sobre cualquier disposición general de los Términos y Condiciones en caso de conflicto en relación con la legislación o jurisdicción aplicable.
+</div>
+
+<h2 style="text-align:center;">Anexo 1: Chile</h2>
+
+Este Anexo regula las disposiciones específicas aplicables al Driver registrado en Chile y forma parte integrante de los Términos y Condiciones Generales de Chazki.
+
+### 1. Legislación Aplicable
+
+<div style="margin-left: 25px;">
+  Este contrato se regirá por las disposiciones del Código Civil y Comercial chileno. Las controversias derivadas del presente contrato se someterán a los tribunales competentes de Santiago de Chile.
+</div>
+
+### 2. Obligaciones Tributarias del Driver
+
+<div style="margin-left: 25px;">
+  El Driver es responsable de la declaración y pago de los impuestos asociados a su actividad. Deberá emitir boletas de honorarios electrónicas u otros documentos tributarios de acuerdo con las regulaciones del Servicio de Impuestos Internos (SII).
+</div>
+
+### 3. Requisitos Legales para Operar:
+
+<div style="margin-left: 25px;">
+  El Driver deberá cumplir con:
+
+  - Licencia de conducir vigente para el tipo de vehículo que opere.
+  - Vehículo asegurado según lo exige la Ley de Tránsito chilena, incluyendo el Seguro Obligatorio de Accidentes Personales (SOAP).
+  - Cumplir con las regulaciones de tránsito aplicables en el territorio chileno.
+</div>
+
+### 4. Afiliación a la Seguridad Social
+
+<div style="margin-left: 25px;">
+  El Driver debe estar afiliado al sistema de AFP (Administradora de Fondos de Pensiones) y FONASA o Isapre para cumplir con la normativa de seguridad social en Chile.
+</div>
+
+### 5. Protección de Datos: 
+
+<div style="margin-left: 25px;">
+  En conformidad con la Ley 19.628 sobre Protección de la Vida Privada, el Driver otorga su consentimiento expreso para que Chazki recolecte, almacene y trate sus Datos Personales con el propósito de gestionar la relación comercial entre las partes, incluyendo la gestión de pagos y el uso de la plataforma.
+
+  El Driver podrá ejercer su derecho a solicitar el acceso, modificación, rectificación, cancelación u oposición al tratamiento de sus datos personales, comunicándose con Chazki a través de los canales proporcionados en el presente documento.
+
+  Chazki se compromete a implementar las medidas de seguridad necesarias para proteger los Datos Personales del Driver, asegurando que no serán compartidos con terceros sin el consentimiento expreso del Driver, salvo en los casos previstos por la ley.
+</div>
+
+### 6. Jurisdicción
+
+<div style="margin-left: 25px;">
+  Las controversias serán resueltas ante los tribunales de Santiago, renunciando a cualquier otro fuero.
+</div>

@@ -1,115 +1,321 @@
-# Términos y Condiciones de servicio de procesos logísticos de última milla.
+<h2 style="text-align:center;">Términos y Condiciones Marco para Drivers de Chazki</h2>
 
-### CONSIDERACIONES
+### 1. Definiciones:
 
-(a). Que, CHAZKI es una startup especializada en logística bajo demanda y soluciones para envíos de última milla basadas en modelos de economía colaborativa. (b) Que, “CHAZKI” cuenta con una plataforma virtual a través de la cual gestiona la ejecución de procesos logísticos de última milla, solicitados por sus CLIENTES y los Vinculados (c). En la plataforma se vinculan terceros en calidad de Vinculados, quienes se encargan de materializar los requerimientos de los CLIENTES. (d). La tecnología de la plataforma permite que se puedan asignar los servicios requeridos por los CLIENTES del mandante. (e). El contrato de vinculación entre CHAZKI y los vinculados para el desarrollo de procesos logísticos de última milla, se materializará con la aceptación de los términos y condiciones a través de la plataforma. (f). Que, el vinculado es una persona natural que acepta realizar la gestión del encargo solicitado por CHAZKI a través de la Plataforma. Para este efecto se encuentra autorizado al uso de la plataforma.
+- __Compañía__: Se refiere a Chazki o cualquier entidad legal asociada que presta los servicios de logística de última milla a través de la tecnología proporcionada por la Aplicación.
+- __Aplicación__: Plataforma digital, descargable en dispositivos móviles, que permite a los Drivers gestionar y aceptar servicios de entrega.
+- __Driver__: Persona natural mayor de edad o persona jurídica que utiliza la Aplicación para prestar servicios de entrega y transporte.
+- __Paquete__: Bien mueble que puede ser trasladado de un lugar a otro, conforme a las normativas locales y excluyendo los bienes prohibidos.
+- __Bienes Prohibidos__: Mercancías cuyo traslado está prohibido por la ley, tales como armas, explosivos, drogas, sustancias tóxicas o ilegales.
+- __Tercero__: Persona natural o jurídica que solicita a un Driver realizar uno o más pedidos de entrega.
+- __Tarifa__: Valor económico que el Driver debe pagar a Chazki por el uso de los Servicios, deducido de los pagos de los Clientes.
+- __Liquidación__: Proceso mediante el cual se efectúa el cálculo de los servicios prestados por el Driver y el correspondiente pago.
 
-### DEFINICIONES:
+### 2. Aceptación de los Términos y Condiciones:
 
-Para los efectos de estos términos y condiciones se entiende por:
+<div style="margin-left: 25px;">
+  Al aceptar estos Términos y Condiciones, los conductores (en adelante, "Drivers") se adhieren íntegramente a los mismos, así como a todas las modificaciones y/o actualizaciones que puedan surgir. La aceptación otorgará al Driver la autorización para el uso de la plataforma digital de Chazki (en adelante, "la Aplicación" y/o "el Sitio Web").
 
-1. Vinculación: Aquel acuerdo de voluntades celebrado entre CHAZKI y el vinculado, por medio del cual CHAZKI, solicita, a través de la Plataforma, la gestión de servicios logísticos de última milla al vinculado, obligándose este último a cumplir con dicho encargo por cuenta y riesgo propios, a cambio de recibir una remuneración como contraprestación. 
+  En caso de no estar de acuerdo con estos Términos y Condiciones, y/o sus eventuales modificaciones o actualizaciones, el Driver debe abstenerse de utilizar la plataforma. El uso continuo de la misma implica la aceptación tácita de los términos vigentes.
 
-2. Cliente: Persona natural o jurídica que en virtud de un contrato comercial solicita a CHAZKI un servicio logístico de última milla. 
+  Chazki se reserva el derecho de modificar los Términos y Condiciones en cualquier momento, notificando dichas modificaciones a través de la Aplicación. Si el Driver no acepta las modificaciones, deberá dejar de utilizar la plataforma. El uso continuo de la misma implica la aceptación tácita de los nuevos términos.
 
-3. Datos personales: Es toda información que permite identificar o hacer identificable a una persona física. 
+  El contrato de vinculación entre __Chazki__ y los __Drivers__ se materializa con la aceptación de estos Términos y Condiciones.
+</div>
 
-4. Mensajes de datos: La información generada, enviada, recibida, almacenada o comunicada por medios electrónicos, ópticos o similares, como pudieran ser, entre otros, el Intercambio Electrónico de Datos (EDI), Internet, el correo electrónico, el telegrama, el télex o el telefax.
+### 3. Naturaleza de la Relación Contractual:
 
-5. Plataforma. Aplicativo web y móvil administrado por CHAZKI, que permite la asignación de Vinculados para que por medio de contratos de vinculación con este realice la gestión de procesos logísticos de última milla. 
+<div style="margin-left: 25px;">
+  Estos Términos y Condiciones se rigen por la ley mercantil del país en el que opere el Driver. La relación entre Chazki y los Drivers es de naturaleza comercial, sin que se genere relación laboral alguna entre las partes. El vínculo es estrictamente contractual, basado en la prestación independiente de servicios de transporte o reparto bajo la modalidad de contrato civil/comercial. En ningún caso se entenderá que existe una representación, sociedad o relación de subordinación laboral entre el Driver y Chazki. El Driver actúa de manera independiente, sin subordinación ni dependencia de Chazki.
+</div>
 
-6. Procesos logísticos de última milla: Tramo final del proceso de entrega de las mercancías en el destino indicado por el cliente cuya asignación es realizada mediante la plataforma.
+### 4. Uso de la Aplicación por el Driver:
 
-### AUTORIZACIÓN. 
+<div style="margin-left: 25px;">
+  El Driver puede conectarse o desconectarse de la plataforma a su conveniencia, sin estar obligado a aceptar todas las solicitudes de entrega. Sin embargo, para mantener la calidad del servicio, Chazki se reserva el derecho de limitar la cantidad de rechazos permitidos antes de afectar la cuenta del Driver.
+</div>
 
-Mediante la aceptación de estos términos y condiciones se constituye la autorización de uso de la Plataforma que otorga de forma gratuita CHAZKI en favor del VINCULADO, para que éste previa la formalización de un contrato de vinculación con la finalidad realizar servicios logísticos de última milla.
+### 5. Objeto del Contrato:
 
-### ALCANCE. 
+<div style="margin-left: 25px;">
+  Chazki se compromete a proporcionar al Driver una plataforma digital para la gestión de servicios de entrega bajo demanda. La Aplicación permite conectar a los Clientes que solicitan servicios de transporte con los Drivers que los ejecutan, sin que Chazki intervenga en la prestación directa del servicio de transporte. Chazki no garantiza un número mínimo de pedidos ni un volumen específico de ingresos para los Drivers.
+</div>
 
-El VINCULADO utilizará la Plataforma para vincularse contractualmente de forma directa con CHAZKI. Para este efecto, CHAZKI: i) comunicará a los vinculados información cierta, fidedigna, suficiente, clara y actualizada respecto de los servicios solicitados por el Cliente; ii) permitirá que su ubicación en tiempo real sea monitoreada para supervisar el estado de los servicios logísticos de última milla.
+### 6. Proceso de Registro de Drivers
 
-### DESCRIPCIÓN DEL SERVICIO. 
+<div style="margin-left: 25px;">
+  Para utilizar la plataforma, los Drivers deben registrarse y proporcionar datos personales verídicos y documentación como antecedentes penales actualizados, licencias de conducir, permisos de circulación y seguros. Chazki se reserva el derecho de aceptar o rechazar la solicitud de registro si no se cumplen los requisitos. Los Datos Personales deben actualizarse regularmente, y cualquier error o inexactitud podría resultar en la cancelación de la cuenta.
+</div>
 
-El VINCULADO declara conocer y aceptar los términos y condiciones de procesos logísticos de última milla los cuales esa última se caracterizan por ser el último tramo que, del producto para llegar a manos del cliente final, es decir entregar un producto final a un cliente, proceso que está estrechamente ligado a los negocios e-commerce. La selección y asignación de servicios y depende del ámbito territorial de injerencia del Vinculado y de la capacidad de entrega de los productos requeridos por el Cliente.
+### 7. Obligaciones de los Drivers:
 
-Al momento de la notificación del servicio, el VINCULADO podrá declinar la aceptación del vinculación de forma unilateral cuando se evidencie la imposibilidad de realizarlo por condiciones de tiempo y/o ubicación. En caso de rechazo, la plataforma asignará el servicio nuevamente, a fin de que los demás Vinculados habilitados en la zona puedan tomarlo y satisfacer las necesidades del Cliente.
+<div style="margin-left: 25px;">
+  El Driver se compromete a:
 
+  1. Cumplir con los requisitos de verificación establecidos por Chazki, incluyendo la presentación de licencias, seguros y permisos exigidos por la ley local.
+  2. Proveer información real y actualizada al registrarse en la plataforma, y actualizarla periódicamente según lo exijan las normativas locales.
+  3. Mantener en óptimas condiciones su vehículo, así como contar con un equipo móvil compatible con la Aplicación y un plan de datos adecuado.
+  4. Utilizar la Aplicación únicamente para prestar servicios de transporte de manera lícita, respetando las normativas locales de tránsito y transporte.
+  5. No transportar bienes prohibidos o de naturaleza ilícita, incluyendo pero no limitado a drogas, armas, explosivos, sustancias infecciosas o cualquier bien que infrinja las normativas locales.
+  6. Informar inmediatamente a Chazki y a las autoridades competentes sobre cualquier intento de transportar bienes ilícitos.
+  7. No consumir sustancias prohibidas, como alcohol o drogas, mientras presta servicios a través de la plataforma.
+  8. Respetar la confidencialidad de los datos de los Clientes y de Chazki, y eliminar cualquier dato personal una vez finalizado el servicio de entrega.
+  9. Responsabilizarse exclusivamente por la ejecución del servicio desde la aceptación del pedido hasta la entrega final.
+  10. Cumplir con las normativas sanitarias dictadas por las autoridades locales, en especial las relativas al control de enfermedades contagiosas.
+  11. Eliminar toda la información personal de los Clientes una vez concluido el servicio de entrega.
+  12. No realizar ingeniería inversa o modificar la Aplicación, ni utilizarla para desarrollar software no autorizado.
+  13. Responsabilizarse por los impuestos asociados a su actividad y cumplir con las normativas fiscales locales.
+  14. Cumplir con las recomendaciones de buen servicio, incluyendo aquellas contenidas en archivos anexos que serán proporcionados tras la aceptación de los T&C.
+  15. Verificar que los envíos correspondan a la descripción y estén embalados correctamente.
+</div>
 
-__Parágrafo.__ Entiende y acepta el VINCULADO que CHAZKI podrá modificar unilateralmente en cualquier momento y sentido los presentes Términos & Condiciones.
+### 8. Obligaciones de Chazki:
 
-### DURACIÓN. 
+<div style="margin-left: 25px;">
+  Por su parte, Chazki se compromete a:
 
-La presente autorización de uso es indefinida, no obstante, CHAZKI podrá unilateralmente revocar la autorización de uso en cualquier momento si así lo desea.
+  1. Mantener disponible la Aplicación para el uso de los Drivers, siempre que estos cumplan con los Términos y Condiciones.
+  2. Realizar la gestión de cobro de los servicios prestados por el Driver a los Clientes, conforme a los términos establecidos.
+  3. Comunicar cualquier cesión de derechos u obligaciones derivados de estos Términos y Condiciones.
+  </div>
 
-### DEBERES DEL VINCULADO. 
+### 9. Forma de Pago:
 
-En virtud de estos términos y condiciones el VINCULADO se compromete a: 1) usar la plataforma única y exclusivamente en los términos definidos aquí mismo; 2) suministrar información real y fidedigna al momento de llenar la suscripción de acceso a la Plataforma. 3) Realizar el servicio oportunamente y en los términos definidos en la transacción; 4) informar a CHAZKI sobre cualquier aspecto que modifique las condiciones de prestación de servicios, como territorio en el que puede realizar los domicilios, tiempo de entrega, entre otros; 5) respetar todos los elementos de propiedad intelectual del OPERADOR, por lo cual se abstendrá de realizar ingeniería inversa, descompilación, derivación de código fuente o similares; 6) deberá abstenerse de consumir bebidas embriagantes, alucinógenos, narcóticos, y demás sustancias que puedan afectar su estado psicológico normal. 7 ) El VINCULADO se obliga a estar afiliado al sistema de seguridad social, y a mantener dicha afiliación vigente durante la duración de la autorización del uso de la Plataforma. según lo dispone la ley colombiana. 8) A proveer un documento de identidad nacional (Cédula de ciudadanía) original, expedido por la Registraduría General del Estado Civil colombiano, a cargar dos fotos del documento en la aplicación, una por cada lado, e igualmente a proveer un documento soporte que contenga el mismo número que aparece en su cédula. 9 ) A tener en cuenta las recomendaciones de buen servicio del Vinculado consagradas en el archivo ANEXO que se envía posterior a la aceptación de estos términos y condiciones y a la correspondiente activación dentro de la plataforma en calidad de Vinculado.
+<div style="margin-left: 25px;">
+  El Driver autoriza a Chazki a actuar como su mandatario para gestionar los pagos de los servicios de reparto prestados. Chazki cobrará en nombre del Driver a los Clientes por los servicios realizados y se encargará de descontar los impuestos aplicables y la comisión de Chazki antes de devolver el valor neto de los servicios al Driver.
 
-### CUMPLIMIENTO. 
+  El Driver es el único responsable de sus obligaciones fiscales y debe emitir los documentos tributarios correspondientes por los servicios prestados. Chazki no asume responsabilidad por la retención, pago o entero de los impuestos generados por los servicios del Driver.
 
-Entiende, conoce y acepta el VINCULADO que la relación contractual que lo vincula con CHAZKI es una relación jurídica de vinculación, por esta razón se obliga a cumplir con las obligaciones prescritas en la normatividad para este tipo de relación contractual. Será causal de revocación automática de la autorización de uso de la Plataforma, el incumplimiento en su gestión.
+  Los pagos se realizarán quincenalmente, los días 20 y el quinto día del mes siguiente, o el día hábil siguiente, basándose en los envíos efectivamente completados dentro de ese periodo. Para que se realicen los pagos, el Driver deberá haber emitido las facturas correspondientes por los servicios prestados.
 
-### RELACIÓN JURÍDICA CON EL CHAZKI. 
+  En caso de que un envío requiera devolución de productos y esta devolución no se realice dentro de la quincena en la que se solicitó el despacho, el pago de dicho envío se trasladará a la siguiente quincena en la que se haya concretado la devolución.
+</div>
 
-El VINCULADO se obliga a usar la Plataforma en las condiciones definidas en estos términos y condiciones, los cuales permiten la configuración de una relación jurídica entre el VINCULADO y CHAZKI para la ejecución de procesos logísticos de última milla. En este sentido, todos los efectos legales relacionados con cumplimiento y responsabilidad establecidos para este tipo de relación recaerán únicamente sobre las partes intervinientes en el mismo, es decir entre CHAZKI y el VINCULADO.
+### 10. Cancelaciones del Servicio:
 
-### CANCELACIÓN DEL ACCESO A LA PLATAFORMA. 
+<div style="margin-left: 25px;">
+  El Driver puede cancelar solicitudes previamente aceptadas únicamente por razones justificadas, tales como enfermedad, accidente, desperfecto del vehículo, caso fortuito o fuerza mayor. Sin embargo, cancelaciones reiteradas sin justificación adecuada pueden resultar en la suspensión temporal o permanente de la cuenta del Driver.
 
-El Vinculado no podrá acceder a la Plataforma por las siguientes causas: a) por decisión unilateral CHAZKI; b) por realizar acciones delictivas o cualquier otra que contravenga las normas y buenas costumbres en detrimento de la plataforma y/o aprovechándose de ésta o en detrimento de cualquier otro tercero que resulte afectado por cualquier tipo de conducta delictiva por parte del Vinculado; c) por encontrarse inmerso en un proceso penal y/o tener antecedentes penales d) por afectar el patrimonio y la buena fe de CHAZKI y/o de terceros e) por usar y aprovecharse del uso de la plataforma virtual para hacer publicidad y promover empresas ajenas a CHAZKI sin la previa autorización expresa y escrita de ésta f) por usar la aplicación para financiar el terrorismo y/o cualquier otro tipo de organización o actividad ilegal g) por usar la aplicación para el lavado de activos; i) por proveer información falsa de afiliaciones al sistema de Salud y pensiones j) por encontrarse desafiliado al sistema de salud y pensiones posterior a haberse otorgado la autorización al uso de la plataforma h) Por prestarse para sustitución/suplantación de identidad, conducta penalizada por el código penal colombiano en su artículo 296. En caso de que ocurra esta última causal, el titular de la cuenta será co-responsable de cualquier tipo de conducta delictiva que se realice con su cuenta i) Por usar los elementos que le permiten prestar servicios a los CHAZKI es para fines ilícitos o que contravengan las buenas costumbres laborales y mercantiles. j) Por cualquier otro tipo de causal consagrada en la normatividad colombiana que amerite la cancelación de la autorización al uso de la plataforma.
+  El Driver debe esperar hasta un máximo de 10 minutos en el punto de recogida o punto de entrega para contactar con el Cliente. Si no logra establecer contacto o comunicación en el Punto de Retiro después de 10 minutos de espera, puede cancelar la solicitud, aplicándose al Cliente el cobro de la tarifa base.
 
-### NATURALEZA DE LA RELACION CONTRACTUAL. 
+  En caso de no lograr contacto o comunicación con el receptor en el Punto de Entrega, el Driver también puede esperar 10 minutos. Si el contacto no se realiza, el Driver podrá optar por regresar al Punto de Retiro, lo que conlleva el cobro de la tarifa de retorno al cliente. Alternativamente, el Driver puede optar por mantener el producto en su poder por un máximo de 24 horas hábiles, durante las cuales se coordinará un nuevo intento de entrega, que también será cargado al Cliente.
+</div>
 
-Estos términos y condiciones se rigen por la ley mercantil colombiana, y por su naturaleza jurídica no genera relación laboral entre las partes. Genera relación de vinculación sin representación, entre CHAZKI y el VINCULADO. Estos términos y condiciones dejan sin vigencia cualquier otro tipo de acuerdo o autorización que existiera entre las partes anteriormente sobre el mismo o similar objeto, pues las relaciones entre ellas se regirán exclusivamente por estos términos y condiciones en lo sucesivo.
+### 11. Limitación de Responsabilidad:
 
-### USO DE MARCAS, LOGOS, NOMBRE E INSIGNIAS DE CHAZKI. 
+<div style="margin-left: 25px;">
+  Chazki no será responsable por ningún daño, incidente o pérdida que ocurra durante la prestación del servicio por parte del Driver, a menos que dichos daños sean atribuibles a dolo o negligencia directa de Chazki.
 
+  1. Chazki no asume ninguna responsabilidad por la pérdida, daño o deterioro de la carga transportada durante el servicio.
+  2. Chazki no será responsable de las interrupciones, fallas o problemas en la disponibilidad de la Aplicación, incluyendo aquellos derivados del uso de Internet, servidores, o cualquier otro factor externo fuera de su control.
+  3. Chazki no tiene ninguna responsabilidad sobre el contenido de los envíos ni sobre la interacción entre los Drivers y los Clientes. El Driver es directamente responsable de cualquier daño, pérdida o incidente que ocurra durante la ejecución del servicio de transporte.
 
-El Vinculado reconoce que no podrá usar, reproducir, modificar, explotar, publicitar o realizar cualquier otra acción con las marcas, logotipos, nombres e insignias de CHAZKI sin la previa autorización expresa y por escrito de este. El Vinculado acepta que el incumplimiento de lo anterior acarreará las sanciones civiles y penales que correspondan e igualmente la inmediata desactivación para el uso de la plataforma.
+  Chazki no garantiza el funcionamiento continuo de la Aplicación, ya que puede estar sujeta a disfunciones o retrasos inherentes al uso de Internet y de las comunicaciones electrónicas. No se podrá exigir ningún tipo de indemnización por fallas técnicas o dificultades en los sistemas, salvo que dichas fallas sean atribuibles a una acción negligente de Chazki.
 
-### ORIGEN DE INGRESOS. 
+  Cualquier incidente que implique virus informáticos o programas maliciosos que afecten el dispositivo del Driver no será responsabilidad de Chazki, salvo que dicho incidente se derive directamente de su actuación negligente.
 
-El Vinculado declara, bajo la gravedad del juramento, que sus ingresos provienen de actividades lícitas, que no se encuentra con registro negativo en listados de prevención de lavado de activos o financiación del terrorismo nacionales o internacionales, ni dentro de una de las dos categorías de lavado de activos (conversión o movimiento) y, en consecuencia, se obliga a responder frente a CHAZKI y terceros afectados por todos los perjuicios que se llegaren a causar como consecuencia de la falsedad de esta afirmación. Igualmente, el Vinculado declara que, el respeto por el buen nombre y la reputación de CHAZKI son elementos claves para continuar con su autorización al uso de la plataforma, razón por la cual, en caso de estar involucrado en lavado de activos, tráfico de estupefacientes, trata de personas, proxenetismo, pornografía infantil, peculado, concusión, secuestro, extorsión, corrupción, tráfico de influencias, contrabando, pertenencia o tratos con organizaciones armadas ilegales o con organizaciones criminales de cualquier índole, tráfico de armas, terrorismo, delitos de lesa humanidad o delitos contra la libertad, integridad y formación sexuales, etc, será motivo suficiente para revocar la autorización al uso de la plataforma y libera a CHAZKI de cualquier responsabilidad que pueda generarse con motivo de las actividades descritas anteriormente.
+  En resumen, Chazki no garantiza que la Aplicación funcione en todos los dispositivos o sistemas operativos y no será responsable de los daños que se puedan derivar de fallas técnicas, interrupciones del servicio o mal uso del sistema por parte de terceros.
+</div>
 
-Para el efecto, el Vinculado se compromete a cumplir con los requisitos y obligaciones que dentro de la normatividad legal vigente le apliquen, y en especial en lo relativo a la prevención del riesgo de lavado de activos y financiación del terrorismo, dentro de los que se encuentran, entre otras, el entregar información veraz y verificable y el actualizar su información personal, comercial y financiera por lo menos una vez al año, o cada vez que así lo solicite CHAZKI, suministrando la totalidad de los soportes documentales exigidos, so pena de ver revocada su autorización al uso de la plataforma.
+### 12. Indemnidad e Indemnización a Chazki:
 
+<div style="margin-left: 25px;">
+  El Driver se compromete a mantener indemne a Chazki frente a cualquier reclamo de terceros derivado de la ejecución de los servicios, y a indemnizar a la empresa por cualquier gasto en el que incurra como resultado de demandas o multas impuestas por las autoridades o terceros.
 
-### HABEAS DATA. 
+  El Driver reconoce que la prestación del Servicio de Reparto al Tercero es de su entera responsabilidad, aunque se vea afectada por eventos de caso fortuito o fuerza mayor. De acuerdo con lo anterior, usted se obliga a:
 
-Con la aceptación de los presentes términos y condiciones para el servicio de procesos logísticso de última milla con CHAZKI, declara expresamente el VINCULADO que ha sido informado respecto a que la información personal, por él suministrada y, de la que tenga conocimiento CHAZKI, en virtud de estos términos y condiciones, tales como: Nombre, Apellido, E-mail, Teléfono, Dirección, Documento de identidad, Fotografías, ubicación en tiempo real, y demás necesarios para su inscripción y la prestación del servicio a los Clientes; la cual podrá ser almacenada por CHAZKI con la finalidad de verificar la prestación adecuada del servicio, y para tratar aquellos que resulten pertinentes para comunicar al VINCULADO información comercial, publicitaria y de mercadeo relacionada con su actividad comercial; así mismo, para ser objeto de estudios de seguridad y análisis para fines de mejorar la estrategia de negocios del portal web, apoyada en herramientas de inteligencia de negocios y minería de datos, que permiten adquirir conocimientos prospectivos para fines de predicción, clasificación y segmentación; además del tratamiento que resulte necesario para el cumplimiento de los deberes adquiridos en virtud de estos términos y condiciones.
+  - Responder directamente ante el Tercero por la sustracción, hurto, robo, extravío, pérdida o deterioro del contenido de los Paquetes.
+  - Responder directamente ante el Tercero por el daño que, con ocasión de la prestación de sus servicios, provoque a sus instalaciones, así como al mobiliario, bienes, equipos y/o a las personas y animales que se encuentren al interior de aquellas.
+  - Mantener indemne e indemnizar a Chazki, sus accionistas, directivos, empleados y representantes en caso cualquiera de ellos se vea afectado moral o económicamente por el reclamo, denuncia o demanda que presente un Tercero que considere que la ejecución del Servicio de Reparto ha sido no idónea y/o ilícita y que le genera daños, perjuicios o gastos que deban ser indemnizados, resarcidos o reparados.
+  - Mantener indemne e indemnizar a Chazki, sus accionistas, directivos, empleados y representantes en caso cualquiera de ellos se vea afectado moral o económicamente por las multas y medidas correctivas que les ordene cancelar o cumplir alguna autoridad, así como por el valor de los daños, perjuicios y gastos que invoquen terceros, a consecuencia de cómo ejecutó el Servicio de Reparto.
 
-Declara expresamente el VINCULADO que no utilizará para provecho propio o de terceros información relacionada con clientes, servicios, productos y demás, a la que tenga acceso en virtud de la presente autorización, razón por la cual se obliga a no almacenar ni tratar los datos personales de los Clientes, ni a contactarlos después de haber entregado, declinado o cancelado cualquier servicio. El mal uso de estos datos personales por parte del Vinculado conllevará la automática suspensión y eliminación de su cuenta.
+  Si a pesar de lo señalado en el numeral anterior Chazki se ve obligada a responder frente al Tercero y pagar alguna suma de dinero, o a realizar alguna obligación de hacer o de no hacer que le sea perjudicial, con la finalidad de no ver afectada su reputación o sus intereses, entonces usted se obliga a restituir a  Chazki los importes y gastos en que hayamos incurrido al tener que cumplir tal pago u obligaciones de hacer o de no hacer.
 
-El Vinculado con la aceptación de los presentes términos y condiciones, autoriza a CHAZKI, para transferir sus datos personales en caso de requerimiento oficial realizado por autoridad competente y/o judicial y/o administrativa.
+  Asimismo, al aceptar estos Términos y Condiciones el Driver autoriza por anticipado, así como de manera expresa e irrevocable a Chazki, a descontar o a compensar automáticamente y sin trámite previo, de los importes que estén en poder de Chazki pendientes de pago a favor del Driver, el valor de los montos que nos exija pagar algún Tercero a quien el Driver prestó servicios o las autoridades o los terceros por los supuestos descritos en los dos numerales anteriores.
 
-El Vinculado autoriza a CHAZKI igualmente para recoger sus datos de su localización, aún, cuando la Aplicación se encuentre cerrada o no esté en uso.
+  Los derechos de acceso y uso de la Aplicación por parte del Driver podrían verse afectados total o parcialmente como consecuencia de algún evento que califique como supuestos de fuerza mayor o caso fortuito según la legislación nacional, en cuyo caso el incumplimiento de  Chazki no se reputará ilícito. Tampoco se considerará a  Chazki responsable de incumplimiento si, a consecuencia de un mandato jurisdiccional, arbitral, o proveniente de autoridad administrativa, dirigido directa o indirectamente contra  Chazki, se ven impactados o afectados de alguna manera los derechos de acceso y uso de la Aplicación o lo Servicios que prestamos.
+</div>
 
-### TERRITORIO Y LEGISLACIÓN APLICABLE. 
+### 13. Vigencia: 
 
-Los presentes términos y condiciones y sus anexos aplican al uso de la Plataforma Chazki en el territorio colombiano, conforme a su normatividad general y normatividad sectorial; que vinculan a las partes.
+<div style="margin-left: 25px;">
+  La presente autorización de uso es indefinida, no obstante, Chazki podrá unilateralmente revocar la autorización de uso en cualquier momento si así lo desea. 
+</div>
 
-El Vinculado declara que este documento contiene la totalidad de los términos y condiciones que rigen su acceso a la Plataforma y que no existen acuerdos vigentes o pactos verbales ni de otra naturaleza sobre este asunto.
+### 14. Resolución del Contrato:
 
-### AVISO DE PRIVACIDAD Y POLÍTICAS DE MANEJO DE LA INFORMACIÓN
+<div style="margin-left: 25px;">
+  Chazki podrá resolver el contrato unilateralmente en caso de incumplimiento de las obligaciones del Driver, tales como la violación de los Términos y Condiciones, el uso indebido de la plataforma, o cualquier conducta que afecte la reputación de Chazki.
 
-###### (HABEAS DATA)
+  Chazki se reserva el derecho de revocar el acceso a la Aplicación de manera unilateral y sin previo aviso en caso de incumplimiento de los T&C por parte del Driver, o si se considera que existe riesgo para la seguridad pública, el orden público o la reputación de la Chazki.
 
-Para dar cumplimiento a lo dispuesto en la Ley Estatutaria 1581 de 2012, reglamentada parcialmente por los Decretos 1377 de 2013 y Decreto 886 de 2014, normas compiladas en el Decreto Único Nacional del Sector Comercio, Industria y Turismo 1074 de 2015 (Artículos 2.2.2.25.1.1. al 2.2.2.26.3.4), __CHAZKICARGO S.A.S.__, identificada con el NIT 901.490.847- 0 , en adelante “CHAZKI” le informa que sus datos serán tratados conforme a la POLÍTICA DE TRATAMIENTO DE DATOS PERSONALES desarrollada por la empresa y publicada en la plataforma virtual, compuesta por una página web https://www.chazki.com/politica-de-privacidad y un aplicativo para dispositivos móviles. En este caso Chazki actúa como Responsable del Tratamiento de los Datos Personales, por lo que mantendrá almacenados estos datos y guardará su confidencialidad atendiendo los requisitos y medidas de seguridad exigidos por la ley.
+  El acceso a la plataforma podrá ser revocado de manera inmediata por Chazki en los siguientes casos:
 
-El tratamiento que le dará CHAZKI a los datos personales se limitará a la recolección, almacenamiento, uso, circulación al interior de la empresa, de su controlante, otras subordinadas o de sus proveedores, para las finalidades autorizadas por medio de las aplicaciones móviles, sitios web y otros productos y servicios online. Una vez se cumplan con las finalidades del tratamiento para la cual se otorgó autorización por parte del titular, los datos personales serán suprimidos de las bases de datos de CHAZKI.
+  - Infracción de normas legales o penales, tales como falsificación de documentos, lavado de activos o suplantación de identidad.
+  - Conducta inapropiada que afecte el patrimonio o la reputación de Chazki o terceros.
+  - Falsificación de información sobre la afiliación al sistema de seguridad social o pensiones.
+  - Uso ilícito de la plataforma para fines no relacionados con la prestación de servicios logísticos, como la promoción de actividades comerciales sin autorización de Chazki.
 
-__Aviso de privacidad:__ El titular de la información acepta de manera expresa, voluntaria e informada que los datos consignados en las bases de datos de CHAZKI, sean recopilados, almacenados para los usos que a continuación se enuncian: (i) Recabar o recolectar los datos personales e incorporarlos y almacenarlos en nuestra base de datos, (ii) Ordenar, catalogar, clasificar, dividir o separar la información suministrada, (iii) Utilizar los datos suministrados en campañas de comunicación, divulgación y promoción u oferta de productos, actividades o servicios desarrollados como parte de estrategias internas de la compañía, (iv) Utilizarlos para fines administrativos internos o comerciales tales como: estudios de crédito, elaboración y presentación de cotizaciones, referencias comerciales de experiencia, investigación de mercados, análisis estadísticos, realización de encuestas sobre satisfacción, ofrecimiento o reconocimiento de beneficios propios de nuestro programa de lealtad y servicio postventa, (v) Conservar registros históricos de la compañía y mantener contacto con los titulares del dato, (vi) Verificar, comprobar o validar los datos suministrados, (vii) Estudiar y analizar la información entregada para el seguimiento y mejoramiento de los productos, el servicio y la atención, (viii) Entregar la información recolectada a terceros con los que la compañía contrate el almacenamiento y administración de los datos personales, bajo los estándares de seguridad y confidencialidad a los cuales CHAZKI está obligada según lo contenido en las leyes pertinentes (ix) Transferir los datos personales a cualquier país o servidor en otro país (x) Realizar el envío de información de novedades, noticias, boletines, foros de educación, publicidad o marketing, ventas a distancia. Haciendo uso de medios tales como, correo electrónico, notificaciones PUSH, mensajes de texto (SMS), ofertas de productos y/o servicios encontrados en la página web y la aplicación. (xi) Comunicar y permitir el acceso a los datos personales suministrados a terceros proveedores de servicios de apoyo general y a las personas naturales o jurídicas accionistas de CHAZKI, (xii) Recabar, tener, manejar y utilizar la información recibida por el titular de la información para activar su cuenta en la aplicación, (xiii) Recabar, tener, manejar y utilizar la información para realizar control y prevención del fraude, control y prevención de lavado de activos y financiación del terrorismo,(xiv) Celebración, ejecución y gestión de las propuestas de negocios y contratos objeto de los servicios prestados, (xv) realizar de conformidad con la ley los reportes a centrales de riesgo por incumplimiento de las obligaciones financieras derivadas de la relación comercial.
+  El Driver puede resolver el contrato en caso de incumplimiento por parte de Chazki en la gestión de pagos u otras obligaciones contractuales.
+</div>
 
-__Derechos que le asisten al Titular:__ (i) Conocer, actualizar y rectificar sus datos personales recolectados por CHAZKI. Este derecho se puede ejercer entre otros frente a datos parciales, inexactos, incompletos, fraccionados o que induzcan al error, (ii) Solicitar prueba de la autorización otorgada a CHAZKI (iii)Ser informado por CHAZKI, previa solicitud, respecto del uso que le han dado a los datos del titular, (iv) Presentar ante la Superintendencia de Industria y Comercio quejas por infracciones a lo dispuesto en la ley (v) Revocar en cualquier tiempo la autorización y/o supresión del dato teniendo en cuenta los límites legales para ello, (vi) Acceder en forma gratuita a los datos del titular contenidos en la base de datos de CHAZKI.
+### 15. Rescisión Sin Causa:
 
-__Forma de conocer la información del Titular y cómo ejercer los derechos:__ CHAZKI presenta a elección del Titular las siguientes formas de ejercer sus derechos de “Habeas Data”
+<div style="margin-left: 25px;">
+  Cualquiera de las partes puede rescindir la relación comercial sin necesidad de causa, notificando a la otra parte con al menos 10 días de antelación. Chazki puede cancelar la cuenta del Driver enviando una notificación por correo electrónico.
+</div>
 
-- Atención electrónica: El Titular del dato deberá realizar su requerimiento formal a la dirección soychazki.co@chazki.com previo agotamiento de los requisitos de legitimación para el ejercicio del titular, a saber:
+### 16. Seguros:
 
-1. Ser titular de la información, acreditar la identidad en forma suficiente mediante cualquier medio que CHAZKI destine para ello.
-2. Por los causahabientes, quienes deberán acreditar tal calidad.
-3. Por el representante/apoderado del titular de la información, quien también deberá acreditar tal calidad.
-4. Por estipulación a favor de otro o por otro ejercitarán por conjunto de las personas que estén facultadas para representarlos, e igualmente se deberá acreditar tal calidad.
+<div style="margin-left: 25px;">
+  El DRIVER deberá contratar un seguro de responsabilidad civil, el que estará a su entero cargo, para realizar el Transporte, hacia terceros no transportados, contra todo daño a personas y a bienes por acontecimientos, mercaderías transportadas, el que deberá ajustarse, modificarse y/o actualizarse, de acuerdo a las nuevas disposiciones municipales que pudieran dictarse en el futuro. El titular del vehículo deberá contratar dicho seguro con Chazki de primera línea, y que esté de conformidad con la Aplicación. Chazki no asume ninguna responsabilidad por la falta de cumplimiento del Driver en esta obligación.
+</div>
 
-Los derechos de los menores de edad se ejercitarán por las personas encargadas de su representación, e igualmente se deberá acreditar tal calidad.
+### 17. Cumplimiento de Normativa sobre Lavado de Activos:
 
-- Atención escrita: El Titular del dato deberá realizar su requerimiento formal a la dirección: Calle 46ª # 82 - 54. Colombia, previo agotamiento de los requisitos de legitimación para el ejercicio del titular, según lo descrito en el literal a del presente acápite, mediante escrito donde se especifique la dirección donde recibirá notificaciones y respuestas.
+<div style="margin-left: 25px;">
+  El Driver declara que sus ingresos provienen de actividades lícitas y no está vinculado con actividades de lavado de activos, financiación del terrorismo u otras actividades ilegales. El Driver se compromete a actualizar su información personal y financiera al menos una vez al año o cuando Chazki lo solicite, y a cumplir con todas las normativas locales sobre prevención de lavado de activos.
+
+</div>
+
+### 18. Independencia de las Partes:
+
+<div style="margin-left: 25px;">
+  La relación entre Chazki y Driver es de carácter comercial y no laboral. El Driver actúa de manera independiente, sin exclusividad, y puede prestar servicios a otras plataformas.
+
+</div>
+
+### 19. Impuestos:
+
+<div style="margin-left: 25px;">
+  El Driver es responsable de determinar y pagar todos los impuestos asociados a su actividad de transporte. Chazki no se responsabiliza por el cumplimiento de las obligaciones fiscales del Driver.
+
+</div>
+
+### 20. Propiedad Intelectual:
+
+<div style="margin-left: 25px;">
+  El DRIVER reconoce y acepta que todos los derechos de autor sobre el código fuente y código objeto de la aplicación, así como los derechos de propiedad industrial sobre los contenidos y/o cualesquiera otros elementos insertados en la Aplicación (incluyendo, sin limitación, marcas, logotipos, nombres comerciales, textos, imágenes, gráficos, diseños, sonidos, bases de datos, software, diagramas de flujo, presentación, audio y vídeo), pertenecen a Chazki.
+
+  Chazki autoriza al DRIVER a utilizar, visualizar, imprimir, descargar y almacenar los contenidos y/o los elementos insertados en la Aplicación exclusivamente para su uso personal, privado y no lucrativo, absteniéndose de realizar sobre los mismos cualquier acto de descompilación, ingeniería inversa, modificación, divulgación o suministro. Cualquier otro uso o explotación de cualesquiera contenidos y/u otros elementos insertados en la Aplicación distinto de los aquí expresamente previstos estará sujeto a la autorización previa de Chazki.
+
+  El Driver tiene una licencia limitada y no exclusiva para utilizar la Aplicación únicamente en los términos establecidos.
+</div>
+
+### 21. Protección de Datos Personales:
+
+<div style="margin-left: 25px;">
+  El Driver autoriza a Chazki a tratar sus datos personales conforme a las políticas de privacidad aplicables. Los datos serán utilizados exclusivamente para la gestión de los servicios y actividades comerciales de  Chazki.
+
+  Chazki declara que toda la información personal de las partes involucradas en estos Términos y Condiciones está sujeta a un sistema razonable de protección de datos personales, tal y como lo disponen las normas establecidas en la materia así como las normas internacionales. Los Datos Personales que el driver proporciona al momento del Registro se integrarán en una base de datos personales de la cual es responsable Chazki, y cuya dirección figura en el encabezamiento del presente documento.
+
+  El DRIVER confirma y acepta que presta su consentimiento previo, expreso e informado para que Chazki pueda tratar sus datos personales en un todo de acuerdo a lo dispuesto en las Políticas de Privacidad y/u otros documentos que complementan el presente.
+
+  El driver confirma y acepta que Chazki se reserve el derecho a utilizar el número de teléfono, dirección de correo electrónico y/o cualquier otro dato aportado por el driver al momento del registro, para contactarlo siempre que sea necesario, en relación con la Aplicación que Chazki  administra y para llevar a cabo actividades de marketing, publicidad y promociones, tanto de Chazki como de terceros, todo ello conforme con lo dispuesto por la normativa aplicable.
+
+  Asimismo, el driver consciente que sus datos personales sean compartidos entre las empresas vinculadas y filiales de Chazki.
+</div>
+
+### 22. Exclusividad y No Exclusividad
+
+<div style="margin-left: 25px;">
+  La contratación de los Servicios no genera obligación de exclusividad entre el Driver y Chazki. El Driver es libre de prestar servicios a otras plataformas o empresas.
+</div>
+
+### 23. Confidencialidad:
+
+<div style="margin-left: 25px;">
+  El Driver se compromete a tratar de manera confidencial toda la información a la que tenga acceso durante la prestación de los servicios, y a no divulgar a terceros sin autorización expresa de Chazki.
+</div>
+
+### 24. Modificación de los Términos y Condiciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá modificar los Términos y Condiciones en cualquier momento, notificando al Driver a través de la Aplicación. Si el Driver no está de acuerdo con las modificaciones, deberá dejar de utilizar la plataforma.
+</div>
+
+### 25. Notificaciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá realizar las notificaciones al Driver a través de una notificación general en la Aplicación, a través de mensajes de WhatsApp o de llamadas al número telefónico registrado, y/o a través de correos electrónicos a la dirección de correo electrónico facilitada por el Usuario en su Cuenta. El DRIVER podrá comunicarse con Chazki mediante el envío de un correo electrónico a la dirección soychazki.co@chazki.com.
+</div>
+
+### 26. Información sobre el compromiso de Chazki para con la prevención de lavado de activos y financiamiento del terrorismo: 
+
+<div style="margin-left: 25px;">
+  En todo momento al utilizar la Aplicación, Chazki y la totalidad de los DRIVERS se comprometen a cumplir con toda normativa vigente en materia de prevención de lavado activos y financiamiento del terrorismo, a través de la utilización de la misma. Por su parte, Chazki reafirma su compromiso en materia de prevención de lavado de activos y financiamiento del terrorismo fomentando la utilización de fondos lícitos en todas las operaciones cursadas por y a través de la Aplicación, destinando sus mejores esfuerzos a realizar la debida diligencia disponible a los efectos cumpliendo con las disposiciones vigentes tanto locales como internacionales así como también con las buenas prácticas existentes y aplicables.
+
+  Chazki llevará adelante la labor con integridad, transparencia y ética, velando por los principios consagrados en su Código de Ética.
+</div>
+
+### 27. Disposiciones Generales-.
+
+<div style="margin-left: 25px;">
+  Si cualquier disposición de estos Términos y Condiciones se considerara ilegal, nula o inexigible, ya sea en su totalidad o en parte de conformidad con la legislación aplicable, dicha disposición o parte de esta se considerará que no forma parte de estos Términos y Condiciones, no siendo afectada la legalidad, validez o exigibilidad del resto de las disposiciones de estos Términos y Condiciones. 
+
+  En ese caso, las partes deberán reemplazar dicha disposición ilegal, nula o inexigible, en todo o en parte por una disposición legal, válida y exigible que tenga, en la medida de lo posible, un efecto similar al que tenía la disposición ilegal, nula o inexigible, dados los contenidos y el propósito de estos Términos y Condiciones.
+</div>
+
+### 28. Cesión de derechos y obligaciones:
+
+<div style="margin-left: 25px;">
+  Chazki podrá ceder, transferir, delegar o disponer de los derechos u obligaciones derivados de la presente vinculación (incluyendo su posición contractual), total o parcialmente, para lo cual, en virtud de su aceptación de los presentes Términos y Condiciones, los DRIVERS otorgan su consentimiento expreso y de manera previa para la realización de dichas acciones.
+
+  El DRIVER no podrá ceder sus derechos y obligaciones dimanantes de los presentes Términos y Condiciones sin el previo consentimiento escrito de Chazki. 
+</div>
+
+### 29. Legislación Aplicable y Jurisdicción: Anexo 1
+
+<div style="margin-left: 25px;">
+  Las disposiciones legales y jurisdiccionales aplicables a los servicios prestados por el Driver dependerán del país en el que opere. Para regular específicamente la relación entre Chazki y el Driver en lo que respecta a la legislación local y la jurisdicción competente, las partes se regirán conforme al Anexo 1.
+
+  El Anexo 1 forma parte integrante de estos Términos y Condiciones y detalla la legislación aplicable, así como la jurisdicción competente, de acuerdo con la residencia o país de operación del Driver.
+
+  El Anexo 1 deberá ser debidamente firmado y aceptado por ambas partes, y su contenido prevalecerá sobre cualquier disposición general de los Términos y Condiciones en caso de conflicto en relación con la legislación o jurisdicción aplicable.
+</div>
+
+<h2 style="text-align:center;">Anexo 1: Colombia</h2>
+
+Este Anexo regula las disposiciones específicas aplicables al Driver registrado en Colombia y forma parte integrante de los Términos y Condiciones Generales de Chazki.
+
+### 1. Legislación Aplicable
+
+<div style="margin-left: 25px;">
+  Este contrato se regirá por las normas de derecho mercantil colombiano. Las disputas que surjan en virtud del contrato se resolverán conforme a la legislación aplicable en Colombia, ante los tribunales de la ciudad de Bogotá.
+</div>
+
+### 2. Obligaciones Tributarias del Driver
+
+<div style="margin-left: 25px;">
+  El Driver es responsable de la declaración y pago de todos los impuestos derivados de la prestación del servicio, incluyendo la emisión de facturas o documentos equivalentes conforme a la DIAN.
+</div>
+
+### 3. Requisitos Legales para Operar
+
+<div style="margin-left: 25px;">
+  El Driver debe cumplir con:
+
+  - Licencia de conducción vigente acorde a la categoría del vehículo utilizado.
+  - Tener un Seguro Obligatorio de Accidentes de Tránsito (SOAT) y cualquier otro seguro obligatorio que se requiera para el tipo de vehículo que opera.
+  - Estar registrado ante la autoridad de tránsito competente, cumpliendo con las normas del Código Nacional de Tránsito.
+</div>
+
+### 4. Afiliación al Sistema de Seguridad Social
+
+<div style="margin-left: 25px;">
+  El Driver debe estar afiliado a los sistemas de salud, pensión y riesgos laborales según lo exige la normativa colombiana. Debe mantener esta afiliación vigente durante la duración del contrato.
+</div>
+
+### 5. Protección de Datos Personales: 
+
+<div style="margin-left: 25px;">
+  En cumplimiento de la Ley Estatutaria 1581 de 2012 y sus decretos reglamentarios, el Driver autoriza a Chazki a recolectar, almacenar, usar y tratar sus Datos Personales para los fines relacionados con la prestación de los servicios de la plataforma, incluyendo, pero no limitado a, la gestión de pagos, control de servicios y comunicaciones necesarias.El Driver tiene derecho a acceder, actualizar, rectificar y suprimir sus datos personales cuando lo considere oportuno. Para ejercer estos derechos, el Driver deberá enviar una solicitud por escrito al correo electrónico de Chazki dispuesto en el contrato.
+
+  Chazki garantiza que implementará las medidas de seguridad necesarias para proteger los Datos Personales del Driver, asegurando su confidencialidad y evitando el acceso no autorizado.
+</div>
+
+### 6. Jurisdicción:
+
+<div style="margin-left: 25px;">
+  Cualquier controversia será resuelta ante los tribunales de Bogotá, conforme a la legislación colombiana aplicable.
+</div>
